@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>	
+	<title>yum!</title>
+  </head>
+  
+  <body>
+	<header>
+		<h1>other web page</h1>
+		<h4>this is it</h4>
+	</header>
+	
+	<p>
+		The lemon (Citrus × limon) is a small evergreen tree native to Asia, and the tree's ellipsoidal yellow fruit. The fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, though the pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, which gives lemons a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade.
+	</p>
+
+  	<footer> 
+  		<a href="otherpage.html">more info GOSH/>
+  </body>
+</html>
