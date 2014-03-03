@@ -66,27 +66,26 @@ h1 {
 	font: Arial;
 	font-size: 48;
 	font-weight: bold;
-	color: white;
+	color: #FFFFFF;
 }
 
 h2 {
 	font: helvetica;
 	font-size: 20;
 	font-weight: bold;
-	color: white;
+	color: #FFFFFF;
 }
 
 h4 { 
 	font:helvetica;
 	font-size:8;
-	
 }
 
 li { color: white;
 }
 
 ul {
-	color: white;
+	color: #FFFFFF;
 }
 
 ul:hover { 
@@ -94,7 +93,7 @@ ul:hover {
 }
 
 ol {
-	color: white;
+	color: #FFFFFF;
 }
 
 ol:hover { 
