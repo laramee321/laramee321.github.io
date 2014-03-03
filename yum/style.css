@@ -62,23 +62,24 @@ table {
 
 
 
-#header > h1 {
+#header > h3 {
 	font: Arial;
-	font-size: 48;
+	font-size: 72;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 
 h2 {
 	font: helvetica;
-	font-size: 20;
+	font-size: 40;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 
 h4 { 
 	font:helvetica;
-	font-size:8;
+	font-size:10;
+	color: #FFFFFF;
 }
 
 
