@@ -92,8 +92,8 @@ p {
 	padding-top: 1.4em;
 }
 
-article {
-	float:;
+#side-content {
+	float:right;
 }
 
 #main-content {
