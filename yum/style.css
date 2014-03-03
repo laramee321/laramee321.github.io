@@ -98,6 +98,7 @@ footer {
 
 
 ul {
+	font-family: "Verdana";
 	color: #FFFFFF;
 }
 
@@ -113,6 +114,7 @@ ul:hover {
 
 
 ol {
+	font-family: "Verdana";
 	color: #FFFFFF;
 }
 
