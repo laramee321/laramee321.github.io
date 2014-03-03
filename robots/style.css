@@ -75,6 +75,7 @@ ul li {
 
 .sidebar {
 	text-align: left;
+	display: block;
 }
 
 
