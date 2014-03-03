@@ -59,9 +59,9 @@ table {
 
 
 <style>
-h3 {
+h1 {
 	font-family: "Verdana";
-	font-size: 80px;
+	font-size: 400px;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 2pt;
@@ -72,7 +72,7 @@ h2 {
 	font-size: 30px;
 	font-weight: bold;
 	color: #FFFFFF;
-	letter-spacing 2pt;
+	letter-spacing 1pt;
 }
 
 h4 { 
