@@ -169,13 +169,15 @@ p {
 	color: #FFFFFF;
 }
 
-body {background-color: black;}
+body {
+	background-color: black;
+	padding 10%
+}
 
 
 
 
-section{
-	padding: 10%;
+
 }
 
 a:link {color: rgb(219, 240, 112)}
