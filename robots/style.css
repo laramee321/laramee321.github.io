@@ -82,3 +82,33 @@ ul li {
 
 
 
+
+
+
+
+body { width:960px; margin:0 auto; }
+		
+header#site-header {
+  position:relative; height:80px;
+}
+
+#site-header h1 a { 
+  display:block;	
+  text-indent:-9999px;    
+  position:absolute;
+  width:300px; height:80px;
+  background:url(logo.png) no-repeat left top;
+}
+nav#top-nav { position:absolute; right:0px; top:0px; }
+
+nav#main-menu { height:30px; background-color:black; }
+nav#main-menu ul li { display:block; float:left; padding:0 5px; }
+nav#main-menu ul li a { display:block; color:white; padding:5px 5px; background-color:blue; }
+
+section#page-content { float:left; width:550px; padding:50px 20px; }
+aside#sidebar { float:right; width:220px; padding:50px 10px;; }
+
+footer#site-footer {     clear:both; background-color:black;     color:white; padding:10px 0px;  }
+
+
+
