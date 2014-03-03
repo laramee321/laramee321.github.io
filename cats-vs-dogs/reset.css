@@ -105,8 +105,8 @@ img {
 	float:left;
 	height: 50%;
 	width: 50%;
-	padding: 14px;
-	padding-top: 3px;
+	padding: 5%;
+	padding-top: 5px;
 	padding-left: 0px;
 }
 
@@ -120,16 +120,16 @@ p {
 #Dogs {
 	float:left;
 	min-width: 10%;
-	max-width: 35%;
+	max-width: 41%;
 	padding: 5%;
-	padding-right: 5%;
+	padding-right: 2%;
 
 }
 
 #Cats {
 	float:right;	
 	min-width: 10%;
-	max-width: 35%;
+	max-width: 41%;
 	padding: 5%;
 
 	
