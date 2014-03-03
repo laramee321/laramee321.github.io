@@ -118,7 +118,7 @@ p {
 }
 
 #Dogs {
-	float:top;
+	float:left;
 	min-width: 10%;
 	max-width: 35%;
 	padding: 5%;
@@ -133,6 +133,11 @@ p {
 	padding: 5%;
 
 	
+}
+
+
+#dogs.img {
+	float:top;
 }
 
 
