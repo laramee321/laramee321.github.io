@@ -92,8 +92,7 @@ p {
 	padding-top: 1.4em;
 }
 
-
-#main-content {
+main-content {
 	min-width: 90px;
 	max-width: 400px;
 }
