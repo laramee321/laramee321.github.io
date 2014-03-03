@@ -59,12 +59,9 @@ table {
 
 <style>
 
-#body {
-	background-color: black
-	}
 
 h1 {
-	font-family: arial;
+	font-family: Arial;
 	font-size: 48;
 	font-family: bold;
 	color: white;
@@ -76,6 +73,10 @@ h2 {
 	font-family: bold;
 	color: white;
 }
+
+body {
+	background-color: black
+	}
 
 
 </style>
