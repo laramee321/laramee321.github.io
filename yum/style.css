@@ -163,9 +163,10 @@ p {
 	font-size: 12pt;
 	line-height: 15pt;
 	color: #FFFFFF;
-
+}
 
 #body {background-color: black;}
+
 a:link {color: rgb(219, 240, 112)}
 a:visited {color: rgb(219, 240, 112)}
 	
