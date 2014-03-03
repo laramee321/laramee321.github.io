@@ -60,7 +60,7 @@ table {
 
 <style>
 
-header {
+h1 !important {
 	font-family: "Verdana";
 	font-size: 40px;
 	font-weight: bold;
