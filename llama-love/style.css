@@ -92,7 +92,7 @@ p {
 }
 
 
-#main-content {
+#main-content.article {
 	min-width: 90px;
 	max-width: 400px;
 }
