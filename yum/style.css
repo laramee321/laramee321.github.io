@@ -80,16 +80,9 @@ h2 {
 }
 
 li:hover { 
-	color:red;
+	color: yellow;
 }
 
-#ul > ol {
-	color: white;
-}
-
-ol:hover { 
-	color: navy;
-}
 	
 body {
 	background-color: black
