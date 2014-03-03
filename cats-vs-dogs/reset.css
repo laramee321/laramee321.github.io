@@ -118,7 +118,7 @@ p {
 }
 
 #Dogs {
-	float:left;
+	float:top;
 	min-width: 10%;
 	max-width: 35%;
 	padding: 5%;
