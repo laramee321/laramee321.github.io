@@ -74,7 +74,7 @@ h2 {
 	color: white;
 }
 
-li {
+#ul > li {
 	color: white;
 	
 }
@@ -83,6 +83,14 @@ li:hover {
 	color:red;
 }
 
+#ul > ol {
+	color: white;
+}
+
+ol:hover { 
+	color: navy;
+}
+	
 body {
 	background-color: black
 	}
