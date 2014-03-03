@@ -59,9 +59,10 @@ table {
 
 
 <style>
-h1 {
+
+header {
 	font-family: "Verdana";
-	font-size: 400px;
+	font-size: 40px;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 2pt;
