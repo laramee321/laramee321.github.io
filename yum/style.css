@@ -62,22 +62,22 @@ table {
 
 
 
-> h3 {
-	font: Arial;
+h3 {
+	font-family: Verdana;
 	font-size: 72;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 
 h2 {
-	font: helvetica;
+	font-family: "Verdana";
 	font-size: 40;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 
 h4 { 
-	font:helvetica;
+	font: "Verdana"";
 	font-size:10;
 	color: #FFFFFF;
 }
