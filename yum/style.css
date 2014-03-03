@@ -60,10 +60,7 @@ table {
 
 <style>
 
-	
-body {
-	background-color: black
-	}
+
 
 h1 {
 	font: Arial;
@@ -104,5 +101,8 @@ ol:hover {
 	color: navy;
 }
 
-
+	
+body {
+	background-color: black
+	}
 </style>
