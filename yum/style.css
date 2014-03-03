@@ -74,12 +74,12 @@ h2 {
 	color: white;
 }
 
-ul {
+li {
 	color: white;
 	
 }
 
-ul:hover { 
+li:hover { 
 	color:red;
 }
 
