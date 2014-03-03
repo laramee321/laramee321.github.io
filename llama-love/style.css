@@ -87,6 +87,10 @@ p {
 }
 
 
+.main-content {
+	min-width: 90px;
+	max-width: 200px;
+}
 
 
 </style
