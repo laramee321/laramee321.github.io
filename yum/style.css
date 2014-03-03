@@ -63,10 +63,11 @@ table {
 
 
 h3 {
-	font-family: Verdana;
-	font-size: 72;
+	font-family: "Verdana";
+	font-size: 80;
 	font-weight: bold;
 	color: #FFFFFF;
+	letter-spacing 2pt;
 }
 
 h2 {
@@ -74,12 +75,14 @@ h2 {
 	font-size: 40;
 	font-weight: bold;
 	color: #FFFFFF;
+	letter-spacing 2pt;
 }
 
 h4 { 
 	font: "Verdana"";
 	font-size:10;
 	color: #FFFFFF;
+	letter-spacing 1pt
 }
 
 
