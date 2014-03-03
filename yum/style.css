@@ -60,17 +60,17 @@ table {
 
 <style>
 
-h1 {
-	font-family: "Verdana" !important;
-	font-size: 40px !important;
-	font-weight: bold !important;
-	color: #FFFFFF !important;
-	letter-spacing 2pt !important;
+h3 {
+	font-family: "Verdana";
+	font-size: 40px;
+	font-weight: bold;
+	color: #FFFFFF;
+	letter-spacing 1pt;
 }
 
 h2 {
 	font-family: "Verdana";
-	font-size: 30px;
+	font-size: 70px !important;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
