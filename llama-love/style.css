@@ -75,8 +75,8 @@ h2 {
 
 img {
 	float:left;
-	height: 30%;
-	width: 30%;
+	height: 15%;
+	width: 15%;
 	padding: 7px;
 }
 
@@ -87,7 +87,8 @@ p {
 }
 
 id.main-content {
-	max-width: 20em;
+	min-width: 90px;
+	max-width: 200px;
 }
 
 
