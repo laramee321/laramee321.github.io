@@ -71,7 +71,7 @@ ul li {
 	text-align: center;
 	word-spacing: 4em;
 	color: black;
-	display: inline;
+	display: inline-block;
 }
 
 
