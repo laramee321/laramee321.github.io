@@ -84,5 +84,38 @@ li {
 }
 
 
+img {
+	float:left;
+	height: 50%;
+	width: 50%;
+	padding: 14px;
+	padding-top: 3px;
+	padding-left: 0px;
+}
+
+p {
+	font-family:helvetica;
+	font-size: 10pt;
+	line-height: 1.2em;
+	padding-top: 1.4em;
+}
+
+#Dogs {
+	float:left;
+	min-width: 90px;
+	max-width: 400px;
+	padding:70px;
+	padding-right: 15px;
+
+}
+
+#Cats {
+	float:right;	
+	min-width: 90px;
+	max-width: 400px;
+	padding:70px;
+	padding-left:15px;
+}
+
 
 </style>
