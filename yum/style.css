@@ -60,7 +60,7 @@ table {
 <style>
 
 h1 {
-	type-family: Helvetica;
+	type-family: Arial;
 	font-size: 48;
 	font-family: bold;
 	letter-spacing: 5pt;
@@ -68,10 +68,10 @@ h1 {
 }
 
 h2 {
-	type-family: Helvetica;
+	type-family: Arial;
 	font-size: 20;
 	font-family: bold;
-	letter-spacing: 2pt;
+	letter-spacing: 1pt;
 	word-spacing: 10pt;
 }
 
