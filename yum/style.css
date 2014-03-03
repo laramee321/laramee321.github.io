@@ -79,11 +79,18 @@ h2 {
 }
 
 h4 { 
-	font: "Verdana"";
+	font-family: "Verdana";
 	font-size:10;
 	color: #FFFFFF;
 	letter-spacing 1pt
 }
+
+
+
+
+
+
+
 
 
 ul {
@@ -93,6 +100,13 @@ ul {
 ul:hover { 
 	color: yellow;
 }
+
+
+
+
+
+
+
 
 ol {
 	color: #FFFFFF;
