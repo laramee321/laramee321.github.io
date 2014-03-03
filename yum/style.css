@@ -57,7 +57,7 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 
-
+<style>
 
 h1 {
 	font-family: arial;
@@ -66,8 +66,13 @@ h1 {
 }
 
 h2 {
-	font-family: Helvetica;
+	font-family: arial;
 	font-size: 20;
 	font-family: bold;
 }
 
+#outer {
+	background-color: black
+}
+
+</style>
