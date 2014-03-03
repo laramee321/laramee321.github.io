@@ -83,10 +83,12 @@ img {
 p {
 	font-family:helvetica;
 	font-size: 10pt;
-
+	line-height: 1.4em;
 }
 
-
+id.main-content {
+	max-width: 20em;
+}
 
 
 
