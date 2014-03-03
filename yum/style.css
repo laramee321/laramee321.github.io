@@ -74,6 +74,15 @@ h2 {
 	color: white;
 }
 
+p {
+	color: white;
+	
+}
+
+p:hover { 
+	color:red;
+}
+
 body {
 	background-color: black
 	}
