@@ -65,28 +65,34 @@ body {
 	}
 
 h1 {
-	font-family: Arial;
+	font: Arial;
 	font-size: 48;
 	font-family: bold;
 	color: white;
 }
 
 h2 {
-	font-family: arial;
+	font: arial;
 	font-size: 20;
 	font-family: bold;
 	color: white;
 }
 
-li {
+ul {
 	color: white;
 }
 
-li:hover { 
+ul:hover { 
 	color: yellow;
 }
 
+ol {
+	color: white;
+}
 
+ol:hover { 
+	color: navy;
+}
 
 
 </style>
