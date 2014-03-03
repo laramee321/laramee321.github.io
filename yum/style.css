@@ -62,7 +62,7 @@ table {
 
 h3 {
 	font-family: "Verdana";
-	font-size: 40px;
+	font-size: 40px !important;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
