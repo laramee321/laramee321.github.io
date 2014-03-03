@@ -97,7 +97,7 @@ p {
 	min-width: 10%;
 	max-width: 35%;
 	padding: 5%;
-	padding-right: 5%;
+	padding-right: 1%;
 
 }
 
@@ -106,6 +106,7 @@ p {
 	min-width: 10%;
 	max-width: 35%;
 	padding: 5%;
+	padding-left: 1%;
 }
 
 </style>
