@@ -62,7 +62,7 @@ table {
 
 
 
-h1 {
+#header > h1 {
 	font: Arial;
 	font-size: 48;
 	font-weight: bold;
