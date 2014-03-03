@@ -94,11 +94,10 @@ h1 {
 	font-family: "Verdana";
 	font-size: 60pt !important;
 	font-weight: bold;
-	line-height 0pt;
+	line-height 1.2em;
 	color: #FFFFFF;
 	letter-spacing 1pt;
-	margin-bottom: 0px
-	text-height: 1.2em;
+	margin-bottom: 0px;
 }
 
 h2 {
