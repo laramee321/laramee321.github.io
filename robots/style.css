@@ -73,14 +73,6 @@ ul li {
 	display: inline-block;
 }
 
-.sidebar {
-	text-align: left;
-	display: block;
-}
-
-
-
-
 
 
 
@@ -106,7 +98,7 @@ nav#main-menu ul li { display:block; float:left; padding:5px 5px; }
 nav#main-menu ul li a { display:block; font-weight:bold; color:white; padding:5px 5px;text-decoration: none; text-transform:uppercase;  center;}
 
 section#page-content { float:left; width:550px; padding:50px 20px; }
-aside#sidebar { float:right; width:220px; padding:50px 10px;; }
+aside#sidebar { float:right; width:220px; padding:50px 10px; }
 
 footer#site-footer {     clear:both; background-color:black;     color:white; padding:10px 0px;  }
 
