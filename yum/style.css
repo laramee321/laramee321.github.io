@@ -1,9 +1,9 @@
+<!DOCTYPE CSS>
 
-
-/* Meyer Reset */
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+/* 
+	http://meyerweb.com/eric/tools/css/reset/ 
+	v2.0 | 20110126
+	License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -26,7 +26,11 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
+/* 
+	HTML5 display-role reset for older browsers 
+*/
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -50,7 +54,25 @@ table {
 	border-spacing: 0;
 }
 
+/* END OF RESET - Start of Your CSS*/
 
-/* END RESET */
 
+<style>
 
+h1 {
+	type-family: Helvetica;
+	font-size: 48;
+	font-family: bold;
+	letter-spacing: 5pt;
+	word-spacing: 20pt;
+}
+
+h2 {
+	type-family: Helvetica;
+	font-size: 20;
+	font-family: bold;
+	letter-spacing: 2pt;
+	word-spacing: 10pt;
+}
+
+</style>
