@@ -68,10 +68,19 @@ h3 {
 	letter-spacing 1pt;
 }
 
+h3 {
+	font-family: "Verdana";
+	font-size: 40pt !important;
+	font-weight: bold;
+	color: #FFFFFF;
+	letter-spacing 1pt;
+}
+
 h2 {
 	font-family: "Verdana";
 	font-size: 70pt !important;
 	font-weight: bold;
+	line-height 90pt;
 	color: #FFFFFF;
 	letter-spacing 1pt;
 }
@@ -99,7 +108,7 @@ footer {
 
 ul {
 	font-family: "Verdana";
-	font-size: 15pt;
+	font-size: 18pt;
 	color: #FFFFFF;
 }
 
@@ -116,6 +125,7 @@ ul:hover {
 
 ol {
 	font-family: "Verdana";
+	font-size: 12pt;
 	color: #FFFFFF;
 }
 
