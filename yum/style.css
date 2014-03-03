@@ -87,6 +87,14 @@ li:hover {
 body {
 	background-color: black
 	}
+	
+#ul > ol {
+	color: white;
+}
+
+ol:hover { 
+	color: navy;
+}
 
 
 </style>
