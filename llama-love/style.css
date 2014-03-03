@@ -75,7 +75,8 @@ h2 {
 
 #img {
 	float:right;
-	
+	height: 50%;
+	width: 50%;
 }
 
 p {
