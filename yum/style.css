@@ -59,6 +59,10 @@ table {
 
 <style>
 
+	
+body {
+	background-color: black
+	}
 
 h1 {
 	font-family: Arial;
@@ -74,27 +78,15 @@ h2 {
 	color: white;
 }
 
- li {
+li {
 	color: white;
-	
 }
 
 li:hover { 
 	color: yellow;
 }
 
-	
-body {
-	background-color: black
-	}
-	
- ol {
-	color: white;
-}
 
-ol:hover { 
-	color: navy;
-}
 
 
 </style>
