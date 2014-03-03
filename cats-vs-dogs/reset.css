@@ -136,6 +136,10 @@ p {
 }
 
 
+#cats.img {
+	width: 30%;
+	height: 30%;
+}
 
 #footer {
 	font-family:helvetica;
