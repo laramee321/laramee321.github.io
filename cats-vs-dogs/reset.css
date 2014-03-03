@@ -63,6 +63,17 @@ table {
 	text-align: center;
 }
 
+
+
+
+
+html, body, #container { height: 100%; }
+body > #container { height: auto; min-height: 100%; }
+
+#content { padding-bottom: 3em; }
+
+
+
 h1 {
 	text-align: center;
 }
