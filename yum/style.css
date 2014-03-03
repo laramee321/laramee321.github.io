@@ -89,19 +89,21 @@ h3 {
 
 
 
-h2 {
-	font-family: "Verdana";
-	font-size: 30pt !important;
-	font-weight: bold;
-	color: #FFFFFF;
-	letter-spacing 1pt;
-}
 
 h1 {
 	font-family: "Verdana";
 	font-size: 60pt !important;
 	font-weight: bold;
 	line-height 0pt;
+	color: #FFFFFF;
+	letter-spacing 1pt;
+	padding-bottom: 0px
+}
+
+h2 {
+	font-family: "Verdana";
+	font-size: 30pt !important;
+	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
 }
@@ -111,6 +113,7 @@ h4 {
 	font-size: 15pt;
 	color: #FFFFFF;
 	letter-spacing 1pt
+	line-height 1em
 }
 
 
