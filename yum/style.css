@@ -89,15 +89,15 @@ h3 {
 
 
 
-h3 {
+h2 {
 	font-family: "Verdana";
-	font-size: 30pt !important;
+	font-size: 20pt !important;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
 }
 
-h2 {
+h1 {
 	font-family: "Verdana";
 	font-size: 60pt !important;
 	font-weight: bold;
