@@ -70,6 +70,7 @@ h2 {
 	font-family: arial;
 	font-size: 10pt;
 	color: gray;
+	font-weight: bold;
 }
 
 #img {
@@ -80,7 +81,7 @@ h2 {
 p {
 	font-family:helvetica;
 	font-size: 10pt;
-	font-weight: bold;
+
 }
 
 
