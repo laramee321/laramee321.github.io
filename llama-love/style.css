@@ -101,7 +101,7 @@ p {
 }
 
 #side-content {
-	float:right !important;	
+	float:left !important;	
 	min-width: 90px;
 	max-width: 400px;
 }
