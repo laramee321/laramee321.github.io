@@ -101,7 +101,7 @@ h1 {
 	font-family: "Verdana";
 	font-size: 60pt !important;
 	font-weight: bold;
-	line-height 90pt;
+	line-height 0pt;
 	color: #FFFFFF;
 	letter-spacing 1pt;
 }
