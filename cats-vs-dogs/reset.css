@@ -119,19 +119,19 @@ p {
 
 #Dogs {
 	float:left;
-	min-width: 90px;
-	max-width: 400px;
-	padding:70px;
-	padding-right: 15px;
+	min-width: 10%;
+	max-width: 35%;
+	padding: 5%;
+	padding-right: 5%;
 
 }
 
 #Cats {
 	float:right;	
-	min-width: 90px;
-	max-width: 400px;
-	padding:70px;
-	padding-left:15px;
+	min-width: 10%;
+	max-width: 35%;
+	padding: 5%;
+
 	
 }
 
