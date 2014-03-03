@@ -103,7 +103,7 @@ nav#top-nav { position:absolute; right:0px; top:0px; }
 
 nav#main-menu { height:30px; background-color:black; text-decoration: none; }
 nav#main-menu ul li { display:block; float:left; padding:0 5px; }
-nav#main-menu ul li a { display:block; color:white; padding:5px 5px; background-color:blue; }
+nav#main-menu ul li a { display:block; font-weight:bold; color:white; padding:5px 5px; background-color:teal; }
 
 section#page-content { float:left; width:550px; padding:50px 20px; }
 aside#sidebar { float:right; width:220px; padding:50px 10px;; }
