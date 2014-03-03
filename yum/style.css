@@ -117,15 +117,23 @@ h4 {
 	line-height 1em
 }
 
-
+p {
+	font-family: "Verdana";
+	font-size: 12pt;
+	line-height: 15pt;
+	color: #FFFFFF;
+}
 
 footer {	
 	font-family: "Verdana";
 	font-size: 10pt;
 	color: #FFFFFF;
-	letter-spacing 1pt
+	letter-spacing 1pt;
+	padding-top: 98%;
 	
 }
+
+
 
 
 
@@ -142,13 +150,6 @@ ul:hover {
 	color: yellow;
 }
 
-
-
-
-
-
-
-
 ol {
 	font-family: "Verdana";
 	font-size: 12pt;
@@ -162,12 +163,6 @@ ol:hover {
 
 
 
-p {
-	font-family: "Verdana";
-	font-size: 12pt;
-	line-height: 15pt;
-	color: #FFFFFF;
-}
 
 body {
 	background-color: black;
