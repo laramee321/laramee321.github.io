@@ -57,6 +57,12 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 <style>
+#top-nav {
+	font-family: Helvetica;
+	font-size: 12pt;
+	text-align: center;
+}
+
 
 
 
@@ -65,7 +71,6 @@ table {
 	font-size: 12pt;
 	text-align: center;
 }
-
 
 
 
