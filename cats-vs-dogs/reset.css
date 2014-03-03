@@ -124,6 +124,7 @@ p {
 
 
 #footer {
+	font-family:helvetica;
     clear: both;
     position: relative;
     z-index: 10;
