@@ -57,10 +57,10 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 
-<style>
+
 
 h1 {
-	font-family: helvetica;
+	font-family: arial;
 	font-size: 48;
 	font-family: bold;
 	letter-spacing: 5pt;
@@ -68,11 +68,10 @@ h1 {
 }
 
 h2 {
-	font-family: helvetica;
+	font-family: arial;
 	font-size: 20;
 	font-family: bold;
 	letter-spacing: 1pt;
 	word-spacing: 10pt;
 }
 
-</style>
