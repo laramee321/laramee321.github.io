@@ -136,9 +136,9 @@ p {
 }
 
 
-#cats > img {
-	width: 30%;
-	height: 30%;
+#dogs.img {
+	width: 70%;
+	height: 70%;
 }
 
 #footer {
