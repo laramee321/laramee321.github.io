@@ -59,22 +59,22 @@ table {
 
 <style>
 
-#outer {
+body {
 	background-color: black
-}
+	}
 
 h1 {
 	font-family: arial;
 	font-size: 48;
 	font-family: bold;
-	font-color: white;
+	color: white;
 }
 
 h2 {
 	font-family: arial;
 	font-size: 20;
 	font-family: bold;
-	font-color: white;
+	color: white;
 }
 
 
