@@ -156,6 +156,7 @@ p {
     position: relative;
     height: 3em;
     margin-top: -3em;
+    center;
 }
 
 h3 {
