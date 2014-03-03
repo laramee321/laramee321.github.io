@@ -93,6 +93,7 @@ p {
 }
 
 #main-content {
+	float:left;
 	min-width: 90px;
 	max-width: 400px;
 	padding:70px;
@@ -100,7 +101,9 @@ p {
 }
 
 #side-content {
-	float:right;
+	float:right;	
+	min-width: 90px;
+	max-width: 400px;
 }
 
 </style>
