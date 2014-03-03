@@ -1,8 +1,9 @@
+<!DOCTYPE CSS>
 
-/* Meyer Reset */
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+/* 
+	http://meyerweb.com/eric/tools/css/reset/ 
+	v2.0 | 20110126
+	License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -25,7 +26,11 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
+/* 
+	HTML5 display-role reset for older browsers 
+*/
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -49,28 +54,10 @@ table {
 	border-spacing: 0;
 }
 
+/* END OF RESET - Start of Your CSS*/
 
-/* Center Content */
+<style>
 
-.centered { 
-  margin:0 auto;
-  width:960px;
-}
-
-
-/* Clearfix */
-.clearfix:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	line-height: 0;
-	height: 0;
-}
- 
-.clearfix { display: inline-block; }
-html[xmlns] .clearfix { display: block; }
-* html .clearfix { height: 1%; }
 
 
 #top-nav {
@@ -80,3 +67,7 @@ html[xmlns] .clearfix { display: block; }
 }
 
 
+
+
+
+</style>
