@@ -129,7 +129,6 @@ footer {
 	font-size: 10pt;
 	color: #FFFFFF;
 	letter-spacing 1pt;
-	padding-bottom; 2%
 	
 }
 
@@ -146,7 +145,7 @@ ul {
 	color: #FFFFFF;
 }
 
-ul:hover { 
+ul.li:hover { 
 	color: yellow;
 }
 
