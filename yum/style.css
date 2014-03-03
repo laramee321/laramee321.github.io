@@ -68,9 +68,30 @@ h3 {
 	letter-spacing 1pt;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 h3 {
 	font-family: "Verdana";
-	font-size: 40pt !important;
+	font-size: 30pt !important;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
@@ -78,7 +99,7 @@ h3 {
 
 h2 {
 	font-family: "Verdana";
-	font-size: 70pt !important;
+	font-size: 60pt !important;
 	font-weight: bold;
 	line-height 90pt;
 	color: #FFFFFF;
@@ -87,7 +108,7 @@ h2 {
 
 h4 { 
 	font-family: "Verdana";
-	font-size: 12pt;
+	font-size: 15pt;
 	color: #FFFFFF;
 	letter-spacing 1pt
 }
@@ -108,7 +129,8 @@ footer {
 
 ul {
 	font-family: "Verdana";
-	font-size: 18pt;
+	font-size: 15pt;
+	line-height: 20pt;
 	color: #FFFFFF;
 }
 
@@ -126,6 +148,7 @@ ul:hover {
 ol {
 	font-family: "Verdana";
 	font-size: 12pt;
+	line-height: 15pt;
 	color: #FFFFFF;
 }
 
