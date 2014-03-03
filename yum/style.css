@@ -62,7 +62,7 @@ table {
 
 h3 {
 	font-family: "Verdana";
-	font-size: 40px !important;
+	font-size: 40pt !important;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
@@ -70,7 +70,7 @@ h3 {
 
 h2 {
 	font-family: "Verdana";
-	font-size: 70px !important;
+	font-size: 70pt !important;
 	font-weight: bold;
 	color: #FFFFFF;
 	letter-spacing 1pt;
@@ -78,7 +78,7 @@ h2 {
 
 h4 { 
 	font-family: "Verdana";
-	font-size: 12px;
+	font-size: 12pt;
 	color: #FFFFFF;
 	letter-spacing 1pt
 }
@@ -87,7 +87,7 @@ h4 {
 
 footer {	
 	font-family: "Verdana";
-	font-size: 10px;
+	font-size: 10pt;
 	color: #FFFFFF;
 	letter-spacing 1pt
 	
@@ -99,6 +99,7 @@ footer {
 
 ul {
 	font-family: "Verdana";
+	font-size: 15pt;
 	color: #FFFFFF;
 }
 
