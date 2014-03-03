@@ -81,23 +81,7 @@ h4 {
 	font-size:8;
 }
 
-li { color: white;
-}
-
-ul {
-	color: #FFFFFF;
-}
-
-ul:hover { 
-	color: yellow;
-}
-
-ol {
-	color: #FFFFFF;
-}
-
-ol:hover { 
-	color: navy;
+li { color: #FFFFFF;
 }
 
 	
