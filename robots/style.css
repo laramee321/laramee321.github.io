@@ -119,7 +119,14 @@ nav#footer-follow{
 	position:absolute; right: 50px;
 }
 
-section#page-content { float:left; width:550px; padding:50px 20px; }
+section#page-content { {
+	float:left;
+	min-width: 10%;
+	max-width: 43%;
+	padding: 5%;
+	padding-right: 1%;
+
+} }
 aside#sidebar { float:right; width:220px; padding:50px 10px; }
 
 footer#site-footer {     clear:both; background-color: #754719;     color:white; padding:10px 0px; 
