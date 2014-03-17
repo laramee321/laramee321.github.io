@@ -73,18 +73,18 @@ ul li {
 }
 
 h1 {
-	color: #663300;
+	color: #754719;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 24pt;
-	font-weight:bold
+	font-weight:bold;
 	text-transform: capitalize;
 }
 
 h2 {
-	color: #663300;
+	color: #754719;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 15pt;
-	font-weight:bold
+	font-weight:bold;
 	text-transform: capitalize;
 }
 
@@ -109,7 +109,7 @@ header#site-header {
 }
 nav#top-nav { position:absolute; right:0px; top:0px; }
 
-nav#main-menu { height:30px; background-color: #663300; }
+nav#main-menu { height:30px; background-color: #754719; }
 nav#main-menu ul li { display:block; float:left; padding:5px 5px; }
 nav#main-menu ul li a { display:block; font-weight:bold; color:white; padding:5px 5px;text-decoration: none; text-transform:uppercase;  center;}
 
