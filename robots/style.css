@@ -129,8 +129,8 @@ nav#footer-follow{
  }
 #sidebar { 	
 	float:right;	
-	min-width: 5%;
-	max-width: 20%;
+	min-width: 10%;
+	max-width: 30%;
 	padding: 5%;
 	padding-left: 1%;}
 
