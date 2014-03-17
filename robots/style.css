@@ -123,11 +123,16 @@ section#page-content { {
 	float:left;
 	min-width: 10%;
 	max-width: 43%;
-	padding: 5%;
+	padding-left: 5%;
 	padding-right: 1%;
 
 } }
-aside#sidebar { float:right; width:220px; padding:50px 10px; }
+aside#sidebar { 	
+	float:right;	
+	min-width: 5%;
+	max-width: 20%;
+	padding: 5%;
+	padding-left: 1%;}
 
 footer#site-footer {     clear:both; background-color: #754719;     color:white; padding:10px 0px; 
 	position:absolute; bottom:0px; left:0px; right:0px;
