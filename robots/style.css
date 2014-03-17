@@ -56,7 +56,6 @@ table {
 
 
 
-
 ul
 {
 list-style-type:none;
@@ -72,6 +71,21 @@ ul li {
 	color: black;
 	display: inline-block;
 }
+
+
+
+h1 {
+	color: brown;
+	font: helvetica, arial, sans-serif;
+	font-size: 24pt;
+}
+
+h2 {
+	color: brown;
+	font: helvetica, arial, sans-serif;
+	font-size: 15pt;
+}
+
 
 
 
