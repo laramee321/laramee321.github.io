@@ -107,7 +107,7 @@ header#site-header {
   width:300px; height:80px;
   background:url(logo.png) no-repeat left top;
 }
-nav#top-nav { position:absolute; right:0px; top:0px;
+nav#top-nav { position:relative; right:0px; top:0px;
 	text-align:center;
 	}
 
