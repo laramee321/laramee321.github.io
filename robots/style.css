@@ -76,14 +76,18 @@ ul li {
 
 h1 {
 	color: brown;
-	font: helvetica, arial, sans-serif;
+	font-family: helvetica, arial, sans-serif;
 	font-size: 24pt;
+	font-style: bold;
+	text-transform: capitalize;
 }
 
 h2 {
 	color: brown;
-	font: helvetica, arial, sans-serif;
+	font-family: helvetica, arial, sans-serif;
 	font-size: 15pt;
+	font-style: bold;
+	text-transform: capitalize;
 }
 
 
