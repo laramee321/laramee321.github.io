@@ -119,14 +119,14 @@ nav#footer-follow{
 	position:absolute; right: 50px;
 }
 
-section#page-content { {
+section#page-content {
 	float:left;
 	min-width: 10%;
 	max-width: 43%;
 	padding-left: 5%;
 	padding-right: 1%;
 
-} }
+ }
 aside#sidebar { 	
 	float:right;	
 	min-width: 5%;
