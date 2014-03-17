@@ -120,7 +120,6 @@ nav#footer-follow{
 }
 
 #content {
-	position:relative;
 	float:left !important;
 	min-width: 10%;
 	max-width: 43%;
@@ -129,8 +128,7 @@ nav#footer-follow{
 	padding-top:30px;
 
  }
-#sidebar { 	
-	position:relative;
+#sidebar {
 	float:right !important;	
 	min-width: 10%;
 	max-width: 30%;
