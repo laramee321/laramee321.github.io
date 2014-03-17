@@ -110,7 +110,7 @@ header#site-header {
 nav#top-nav { position:relative; right:0px; top:0px;
 	}
 
-nav#main-menu { height:30px; background-color: #754719; position:absolute; right:0px; left:0px; }
+nav#main-menu { height:30px; background-color: #754719; position:absolute; right:0px; left:0px; text-align:center; }
 nav#main-menu ul li { display:inline-block; float:center; padding:5px 5px; }
 nav#main-menu ul li a { display:inline-block; font-weight:bold; color:white; padding:5px 5px;text-decoration: none;
 text-transform:uppercase; float:center;}
