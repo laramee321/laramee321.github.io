@@ -115,8 +115,8 @@ nav#main-menu ul li { display:inline-block; float:center; padding:5px 5px; }
 nav#main-menu ul li a { display:inline-block; font-weight:bold; color:white; padding:5px 5px;text-decoration: none;
 text-transform:uppercase; float:center;}
 
-div .menu-wrapper {
-	float:center;
+nav#footer-follow{
+	position:absolute; right: 50px;
 }
 
 section#page-content { float:left; width:550px; padding:50px 20px; }
