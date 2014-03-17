@@ -112,7 +112,7 @@ nav#top-nav { position:absolute; right:0px; top:0px;
 	}
 
 nav#main-menu { height:30px; background-color: #754719; position:absolute; right:0px; left:0px; }
-nav#main-menu ul li { display:block; float:left; padding:5px 5px; }
+nav#main-menu ul li { display:block; float:left; padding:5px 5px; 	text-align:center}
 nav#main-menu ul li a { display:block; font-weight:bold; color:white; padding:5px 5px;text-decoration: none; text-transform:uppercase;  center;}
 
 section#page-content { float:left; width:550px; padding:50px 20px; }
