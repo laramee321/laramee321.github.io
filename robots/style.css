@@ -1,5 +1,4 @@
 
-
 /* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -139,3 +138,38 @@ aside img {
 	width:200px;}
 
 
+
+
+
+
+
+
+#content {
+	clear:both;
+	height:550px;}
+
+article h1 {
+	font-size:25px;
+	color:rgb(140,80,35);
+	font-weight: bold;}
+
+article h2 {
+	font-size:12px;
+	color:rgb(135,78,36);
+	margin-bottom:5px;
+	margin-top:15px;
+	font-weight: bold;}
+
+#site-header a img {
+	width:60px;
+	position:absolute;
+	display:block;
+	width:250px;
+	bottom:0;}
+	
+	
+	
+	
+	
+	
+	
