@@ -81,6 +81,11 @@ body {
     height: 100%;
   }
   
+  
+  .block1:hover{
+  	color: gray;
+  }
+  
     #cyan {
 	margin:0px;
 	padding: 0px;
