@@ -66,7 +66,8 @@ body {
 header {
 	position:relative;
 	background-color: #f0fadd;
-	height:130px;}
+	height:130px;
+	width:9999px;}
 
 
 
@@ -94,7 +95,8 @@ nav#main-menu ul li {
 	display:inline-block; 
 	float:center; padding:5px 5px;}
 	
-nav#main-menu ul li a { display:inline-block; 
+nav#main-menu ul li a { 
+	display:inline-block; 
 	font-weight:bold;
 	color:white; 
 	padding:5px 5px;
