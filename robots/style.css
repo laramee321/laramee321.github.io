@@ -241,9 +241,19 @@ footer#site-footer {
 	right:0px;}
 
 
-div#site-wrapper {
+#site-wrapper {
 	position: fixed;
 	top:0px;
 	left:0px;
 	right:0px;
+}
+
+
+article#page{
+	float:left;
+	min-width: 10%;
+	max-width: 43%;
+	padding: 5%;
+	padding-right: 1%;
+
 }
