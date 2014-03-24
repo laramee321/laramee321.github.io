@@ -261,7 +261,13 @@ footer#site-footer {
 
 #sidebar{
 	float:right;	
+	min-width: 10%;
+	max-width: 20%;
 	padding: 5%;
 	padding-left: 1%;
+}
+
+#content-wrapper{
+	float:center;
 }
 
