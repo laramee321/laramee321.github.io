@@ -117,19 +117,20 @@ body {
   }
 
   .block4 {
-  	display:block;
-	 background-color:#ffff00;
+	background-color:#ffff00;
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
 	width:25%;
 	height: 100vh;
-	vertical-align: middle;
   }
 
   .block4:hover{
   	background-color: #ffffb2;
   }
 
-
+#block4>p{
+	display: table-cell;
+	vertical-align: middle;
+}
