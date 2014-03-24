@@ -65,27 +65,32 @@ font-family:helvetica;
 
   #container { 
     background-color:lightgray; 
-    margin:20px; height:400px; 
+    margin:0px;
+    height:100%; 
   }
 
   .block1 {
     background-color:black;
     padding:50px;
+    width:25%;
   }
 
   .block2 {
     background-color:#ff00ff;
     padding:50px;
+        width:25%;
   }
 
   .block3 {
     background-color:#00FFFF;
     padding:50px;
+        width:25%;
   }
   
   .block4 {
     background-color:#ffff00;
     padding:50px;
+        width:25%;
   }
 
 
