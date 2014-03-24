@@ -64,9 +64,11 @@ body {
 	font-family: 'helvetica';}
 
 header {
-	position:relative;
+	position:absolute;
 	background-color: #f0fadd;
 	height:130px;}
+
+
 
 header h1 {
 	position:absolute;
