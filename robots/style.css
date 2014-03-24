@@ -107,7 +107,7 @@ p {
 	width: 400px;}
 
 footer {
-	background-color: 754719;
+	background-color: #754719;
 	height:120px;}
 
 #nav-list li {
@@ -215,7 +215,7 @@ article h2 {
 	color:white;
 	padding-top:20px;
 	margin-bottom:10px;
-	font-size: 12px}
+	font-size: 12px;}
 
 #footer-follow ul li img {
 	width:30px;
