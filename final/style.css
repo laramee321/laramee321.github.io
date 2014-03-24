@@ -69,28 +69,20 @@ font-family:helvetica;
 
   .block1 {
     background-color:black;
-    padding:500px;
-    width:25%;
-        height:100%; 
+    padding:50px;
   }
 
   .block2 {
     background-color:#ff00ff;
     padding:50px;
-    width:25%;
-        height:100%; 
   }
 
   .block3 {
     background-color:#00FFFF;
     padding:50px;
-    width:25%;
-        height:100%; 
   }
   
   .block4 {
     background-color:#ffff00;
     padding:50px;
-    width:25%;
-        height:100%; 
   }
