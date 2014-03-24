@@ -213,7 +213,8 @@ article h2 {
 
 #footer-follow {
 	float:right;
-	width:10%;}
+	max-width: 30%;
+	min-width:10%;}
 
 
 #footer-follow h1{
