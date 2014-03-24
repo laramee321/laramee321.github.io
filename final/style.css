@@ -138,6 +138,7 @@ body {
 #block4>p{
 	font-family:helvetica;
 	font-size: 100pt;
+	text-transform: uppercase;
 	display: table-cell;
 	vertical-align: middle;
 }
