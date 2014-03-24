@@ -170,7 +170,8 @@ aside img {
 
 #content {
 	clear:both;
-	height:550px;}
+	height:550px;
+	margin-top:200px;}
 
 article h1 {
 	font-size:25px;
