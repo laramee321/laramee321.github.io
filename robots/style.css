@@ -266,3 +266,7 @@ footer#site-footer {
 	padding: 5%;
 	padding-left: 1%;
 }
+
+#content-wrapper{
+	float:center;
+}
