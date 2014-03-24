@@ -135,4 +135,5 @@ body {
 div {
 	display: table-cell;
 	vertical-align: middle;
+	text-size: 72pt
 }
