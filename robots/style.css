@@ -1,4 +1,3 @@
-
 /* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -173,3 +172,33 @@ article h2 {
 	
 	
 	
+	
+
+#footer-contact {
+	width:110px;
+	float:left;}
+
+#footer-contact h1{
+	color:rgb(209,190,163);
+	padding-top:20px;
+	margin-bottom:10px;}
+
+#footer-contact p {
+	color:white;
+	width:150px;}
+
+#footer-follow {
+	float:right;
+	width:360px;}
+
+
+#footer-follow h1{
+	color:rgb(209,190,163);
+	padding-top:20px;
+	margin-bottom:10px;
+	font-size: 12px}
+
+#footer-follow ul li img {
+	width:30px;
+	float:left;
+	padding-right:2px;}
