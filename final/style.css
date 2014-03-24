@@ -81,47 +81,48 @@ body {
   	background-color: gray;
   }
   
-    #cyan {
-	margin:0px;
-	padding: 0px;
-        width:25%;
-        float:left;
-	height:100vh;
-  }
+
+
 
   .block2 {
     background-color:#ff00ff;
-    padding:50px;
-    margin:0px;
-    height: 100%;
-  }
-  
-    #magenta {
+  	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
+	float:left;
 	width:25%;
-        float:left;
-        height: 100vh;
+	height: 100vh;
+  }
+  
+    .block2:hover{
+  	background-color: #AFEEEE;
   }
 
   .block3 {
     background-color:#00FFFF;
-    padding:50px;
-    margin:0px;
-    height: 100%;
-  }
-  
-    #yellow {
+  	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
-        width:25%;
-        float:left;
-        height: 100%;
+	float:left;
+	width:25%;
+	height: 100vh;
   }
   
+
+  .block3:hover{
+  	background-color: #ffb2ff;
+  }
+
   .block4 {
     background-color:#ffff00;
-    padding:50px;
-    margin:0px;
-    height: 100%;
+  	transition: background-color 1s;
+	margin:0px;
+	padding: 0px;
+	float:left;
+	width:25%;
+	height: 100vh;
+  }
+
+  .block4:hover{
+  	background-color: #ffffb2;
   }
