@@ -66,11 +66,7 @@ body {
 }
 
 
-  #black {
-  	    -moz-transition: background-color 2s;
-    -webkit-transition: background-color 2s;
-    -ms-transition: background-color 2s;
-    -o-transition: background-color 2s;
+  .block1 {
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
@@ -78,16 +74,9 @@ body {
 	width:25%;
 	height: 100vh;
   }
-
-  .block1 {
-    background-color:black;
-    padding:50px;
-    margin:0px;
-    height: 100%;
-  }
   
   
-  #black:hover{
+  .block1:hover{
   	background-color: gray;
   }
   
