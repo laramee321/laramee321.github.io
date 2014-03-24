@@ -93,6 +93,7 @@ body {
     background-color:#ff00ff;
     padding:50px;
     margin:0px;
+    height: 100%;
   }
   
     #magenta {
@@ -107,6 +108,7 @@ body {
     background-color:#00FFFF;
     padding:50px;
     margin:0px;
+    height: 100%;
   }
   
     #yellow {
@@ -121,4 +123,5 @@ body {
     background-color:#ffff00;
     padding:50px;
     margin:0px;
+    height: 100%;
   }
