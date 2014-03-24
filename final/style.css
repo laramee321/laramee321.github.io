@@ -124,6 +124,9 @@ body {
 	float:left;
 	width:25%;
 	height: 100vh;
+	
+		display: table-cell;
+	vertical-align: middle;
   }
 
   .block4:hover{
@@ -131,9 +134,3 @@ body {
   }
 
 
-
-div {
-	display: table-cell;
-	vertical-align: middle;
-	text-size: 72pt
-}
