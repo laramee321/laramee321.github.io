@@ -136,7 +136,7 @@ body {
 	font-family:helvetica;
 	font-size: 100pt;
 	text-transform: uppercase;
-	display: table-cell;
+	display: inline-block;
 	vertical-align: middle;
 	color:white;
 }
