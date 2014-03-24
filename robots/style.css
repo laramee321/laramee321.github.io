@@ -194,7 +194,7 @@ header#site-header {
 	background-color: #754719;
 	color:white;
 	padding:10px 0px; 
-	position:absolute;
+	position:relative;
 	top:0%; left:0px; right:0px;
 	
 	
@@ -204,7 +204,7 @@ header#site-header {
 #footer-contact {
 	width:110px;
 	float:left;
-	padding-left:20px;}
+}
 
 #footer-contact h1{
 	color:#f0fadd;
