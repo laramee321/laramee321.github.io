@@ -67,6 +67,7 @@ body {
 
 
   #black {
+  	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
