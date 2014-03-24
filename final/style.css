@@ -67,6 +67,10 @@ body {
 
 
   #black {
+  	    -moz-transition: background-color 2s;
+    -webkit-transition: background-color 2s;
+    -ms-transition: background-color 2s;
+    -o-transition: background-color 2s;
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
