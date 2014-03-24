@@ -66,17 +66,22 @@ font-family:helvetica;
   #black {
     margin:0px;
     padding: 0px;
+    float:left;
+    width:25%;
   }
 
   .block1 {
     background-color:black;
     padding:50px;
     margin:0px;
+    
   }
   
     #cyan {
     margin:0px;
     padding: 0px;
+        width:25%;
+        float:right;
   }
 
   .block2 {
@@ -88,6 +93,8 @@ font-family:helvetica;
     #magenta {
     margin:0px;
     padding: 0px;
+        width:25%;
+        float:right;
   }
 
   .block3 {
@@ -99,6 +106,8 @@ font-family:helvetica;
     #yellow {
     margin:0px;
     padding: 0px;
+        width:25%;
+        float:right;
   }
   
   .block4 {
