@@ -65,7 +65,7 @@ body {
 
 header {
 	position:relative;
-	background-color: #754719;
+	background-color: #f0fadd;
 	height:130px;}
 
 header h1 {
@@ -139,14 +139,14 @@ aside {
 
 aside h1 {
 	font-size:16px;
-	color:#754719;
+	color:#f0fadd;
 	margin-bottom:5px;
 	margin-top:15px;
 	font-weight: bold;}
 
 aside ul li {
 	font-size:12px;
-	color:#754719;
+	color:#f0fadd;
 	line-height:1.5;}
 
 aside ul {
@@ -168,12 +168,12 @@ aside img {
 
 article h1 {
 	font-size:25px;
-	color:#754719;
+	color:#f0fadd;
 	font-weight: bold;}
 
 article h2 {
 	font-size:12px;
-	color:#754719;
+	color:#f0fadd;
 	margin-bottom:5px;
 	margin-top:15px;
 	font-weight: bold;}
