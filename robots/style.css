@@ -65,7 +65,7 @@ body {
 
 header {
 	position:relative;
-	background-color:rgb(240,250,220);
+	background-color: #754719;
 	height:130px;}
 
 header h1 {
@@ -107,7 +107,7 @@ p {
 	width: 400px;}
 
 footer {
-	background-color:rgb(140,80,35);
+	background-color: 754719;
 	height:120px;}
 
 #nav-list li {
@@ -139,14 +139,14 @@ aside {
 
 aside h1 {
 	font-size:16px;
-	color:rgb(140,80,35);
+	color:#754719;
 	margin-bottom:5px;
 	margin-top:15px;
 	font-weight: bold;}
 
 aside ul li {
 	font-size:12px;
-	color:rgb(140,80,35);
+	color:#754719;
 	line-height:1.5;}
 
 aside ul {
@@ -168,12 +168,12 @@ aside img {
 
 article h1 {
 	font-size:25px;
-	color:rgb(140,80,35);
+	color:#754719;
 	font-weight: bold;}
 
 article h2 {
 	font-size:12px;
-	color:rgb(135,78,36);
+	color:#754719;
 	margin-bottom:5px;
 	margin-top:15px;
 	font-weight: bold;}
@@ -198,7 +198,7 @@ article h2 {
 	float:left;}
 
 #footer-contact h1{
-	color:rgb#754719;
+	color:white;
 	padding-top:20px;
 	margin-bottom:10px;}
 
@@ -212,7 +212,7 @@ article h2 {
 
 
 #footer-follow h1{
-	color:rgb#754719;
+	color:white;
 	padding-top:20px;
 	margin-bottom:10px;
 	font-size: 12px}
