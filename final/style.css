@@ -63,7 +63,7 @@ font-family:helvetica;
 
 
 
-  #container {
+  #black {
     margin:0px;
     padding: 0px;
   }
@@ -73,17 +73,32 @@ font-family:helvetica;
     padding:50px;
     margin:0px;
   }
+  
+    #cyan {
+    margin:0px;
+    padding: 0px;
+  }
 
   .block2 {
     background-color:#ff00ff;
     padding:50px;
     margin:0px;
   }
+  
+    #magenta {
+    margin:0px;
+    padding: 0px;
+  }
 
   .block3 {
     background-color:#00FFFF;
     padding:50px;
     margin:0px;
+  }
+  
+    #yellow {
+    margin:0px;
+    padding: 0px;
   }
   
   .block4 {
