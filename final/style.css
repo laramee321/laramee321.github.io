@@ -64,7 +64,8 @@ font-family:helvetica;
 
 
   #container {
-
+    margin:0px;
+    padding: 0px;
   }
 
   .block1 {
