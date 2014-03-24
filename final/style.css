@@ -63,33 +63,32 @@ font-family:helvetica;
 
 
 
-<style>
   #container { 
     background-color:lightgray; 
     margin:20px; height:400px; 
   }
 
   .block1 {
-    background-color:orange;
+    background-color:black;
     padding:50px;
   }
 
   .block2 {
-    background-color:red;
+    background-color:#ff00ff;
     padding:50px;
   }
 
   .block3 {
-    background-color:teal;
+    background-color:#00FFFF;
+    padding:50px;
+  }
+  
+  .block4 {
+    background-color:#ffff00;
     padding:50px;
   }
 
-</style>
-<section id='container'>
-	  <div class='block1'></div>
-	  <div class='block2'></div>
-	  <div class='block3'></div>
-</section>
+
 
 
 
