@@ -117,6 +117,7 @@ body {
   }
 
   .block4 {
+  	display:block
     background-color:#ffff00;
   	transition: background-color 1s;
 	margin:0px;
