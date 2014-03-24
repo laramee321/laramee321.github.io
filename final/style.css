@@ -68,7 +68,7 @@ font-family:helvetica;
     padding: 0px;
     float:left;
     width:25%;
-    bottom: 0;
+	height: 100%;
   }
 
   .block1 {
@@ -83,7 +83,7 @@ font-family:helvetica;
     padding: 0px;
         width:25%;
         float:right;
-            bottom: 0;
+            height: 100%;
   }
 
   .block2 {
@@ -97,7 +97,7 @@ font-family:helvetica;
     padding: 0px;
         width:25%;
         float:right;
-            bottom: 0;
+            height: 100%;
   }
 
   .block3 {
@@ -111,7 +111,7 @@ font-family:helvetica;
     padding: 0px;
         width:25%;
         float:right;
-            bottom: 0;
+            height: 100%;
   }
   
   .block4 {
