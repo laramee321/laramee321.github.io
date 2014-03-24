@@ -86,7 +86,7 @@ body {
 	padding: 0px;
         width:25%;
         float:left;
-	height:100%;
+	height:100vh;
   }
 
   .block2 {
@@ -101,7 +101,7 @@ body {
 	padding: 0px;
 	width:25%;
         float:left;
-        height: 100%;
+        height: 100vh;
   }
 
   .block3 {
@@ -116,7 +116,7 @@ body {
 	padding: 0px;
         width:25%;
         float:left;
-        height: 100%;
+        height: 100vh;
   }
   
   .block4 {
