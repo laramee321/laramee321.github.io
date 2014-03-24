@@ -249,11 +249,13 @@ footer#site-footer {
 }
 
 
-article#page{
+#page{
 	float:left;
 	min-width: 10%;
 	max-width: 43%;
 	padding: 5%;
 	padding-right: 1%;
+	
+margin-left:10%;
 
 }
