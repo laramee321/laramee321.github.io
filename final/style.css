@@ -70,19 +70,23 @@ font-family:helvetica;
   .block1 {
     background-color:black;
     padding:50px;
+    margin:0px;
   }
 
   .block2 {
     background-color:#ff00ff;
     padding:50px;
+    margin:0px;
   }
 
   .block3 {
     background-color:#00FFFF;
     padding:50px;
+    margin:0px;
   }
   
   .block4 {
     background-color:#ffff00;
     padding:50px;
+    margin:0px;
   }
