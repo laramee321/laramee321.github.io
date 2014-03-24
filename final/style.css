@@ -129,6 +129,11 @@ body {
   .block4:hover{
   	background-color: #ffffb2;
   }
+  
+  .container{
+  	display:table;
+  	clear:both;
+  }
 
 #block4>p{
 	font-family:helvetica;
