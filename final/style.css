@@ -66,6 +66,9 @@ body {
 }
 
 
+
+
+
   .block1 {
   	transition: background-color 1s;
 	margin:0px;
@@ -126,3 +129,10 @@ body {
   .block4:hover{
   	background-color: #ffffb2;
   }
+
+
+
+div {
+	display: table-cell;
+	vertical-align: middle;
+}
