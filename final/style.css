@@ -138,39 +138,6 @@ vertical-align:middle;
   .block4:hover{
   	background-color: #ffffb2;
   }
-  
-
-
-.block1>h1 {
-	
-	text-align: center;
-	margin: 0;
-	font-size: 100px;
-	font-family: helvetica, arial, sans-serif;
-	color: #B3B3B3;
-		line-height: 25vh;
-		 vertical-align: middle;
-}
-
-.block2>h1 {
-	text-align: center;
-	margin: 0;
-	font-size: 100px;
-	font-family: helvetica, arial, sans-serif;
-	color: #B3B3B3;
-		line-height: 25vh;
-		 vertical-align: middle;
-}
-
-.block3>h1 {
-	text-align: center;
-	margin: 0;
-	font-size: 100px;
-	font-family: helvetica, arial, sans-serif;
-	color: #B3B3B3;
-	line-height: 25vh;
-	 vertical-align: middle;
-}
 
 
 .colorblocks>div>h1{
