@@ -157,6 +157,7 @@ vertical-align:middle;
 .colorblocks>div>h1{
 	text-align: center;
 	margin: 0;
+	-webkit-margin-after: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
