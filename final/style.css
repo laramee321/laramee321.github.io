@@ -139,24 +139,17 @@ vertical-align:middle;
   	background-color: #ffffb2;
   }
 
+
+
 .colorblocks{
 		margin: 0;
 		padding: 0;
 }
-.colorblocks>div>a{
-	text-align: center;
-	margin: 0;
-	font-size: 100px;
-	font-family: helvetica, arial, sans-serif;
-	color: white;
-	line-height: 25vh;
-	vertical-align: middle;
-	letter-spacing: -5pt;
-}
+
 
 .colorblocks>div>h1{
 	text-align: center;
-	margin: 0 !important;
+	margin: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
