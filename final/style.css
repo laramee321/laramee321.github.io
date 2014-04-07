@@ -141,6 +141,7 @@ vertical-align:middle;
 
 .colorblocks{
 		margin: 0;
+		padding: 0;
 }
 .colorblocks>div>a{
 	text-align: center;
