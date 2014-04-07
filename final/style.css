@@ -140,3 +140,10 @@ body {
 	vertical-align: middle;
 	color:white;
 }
+
+
+.h1 {
+	font-family:helvetica, arial, sans-serif;
+	text-shadow: 0px 2px 3px #666;
+}
+	
