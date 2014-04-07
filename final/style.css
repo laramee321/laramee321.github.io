@@ -132,10 +132,42 @@ body {
   
 
 
-.block4>h1 {
+.block1>h1 {
+	
 	width: 50%;
 	height: 50%;
 	margin: 0 auto;
+	font-size: 50px;
+	font-family: helvetica, arial, sans-serif;
+	text-shadow: 0px 2px 3px #666;
+}
+
+.block2>h1 {
+	
+	width: 50%;
+	height: 50%;
+	margin: 0 auto;
+	font-size: 50px;
+	font-family: helvetica, arial, sans-serif;
+	text-shadow: 0px 2px 3px #666;
+}
+
+.block3>h1 {
+	
+	width: 50%;
+	height: 50%;
+	margin: 0 auto;
+	font-size: 50px;
+	font-family: helvetica, arial, sans-serif;
+	text-shadow: 0px 2px 3px #666;
+}
+
+.block4>h1 {
+	
+	width: 50%;
+	height: 50%;
+	margin: 0 auto;
+	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
 	text-shadow: 0px 2px 3px #666;
 }
