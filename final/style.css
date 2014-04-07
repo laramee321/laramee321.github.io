@@ -144,6 +144,8 @@ vertical-align: middle;
 }
 
 .block2>h1 {
+	text-align: center;
+vertical-align: middle;
 	width: 50%;
 	margin: 0 auto;
 	font-size: 50px;
@@ -152,6 +154,8 @@ vertical-align: middle;
 }
 
 .block3>h1 {
+	text-align: center;
+vertical-align: middle;
 	width: 50%;
 	margin: 0 auto;
 	font-size: 50px;
@@ -160,6 +164,8 @@ vertical-align: middle;
 }
 
 .block4>h1 {
+	text-align: center;
+vertical-align: middle;
 	width: 50%;
 	text-height: 400px;
 	margin: 0 auto;
