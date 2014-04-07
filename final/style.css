@@ -141,6 +141,7 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	color: #333333;
 		line-height: .8;
+		padding-top:20%;
 }
 
 .block2>h1 {
@@ -150,6 +151,7 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	color: #580058;
 		line-height: .8;
+		padding-top:20%;
 }
 
 .block3>h1 {
@@ -159,7 +161,7 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	color: #668B8B;
 	line-height: .8;
-
+padding-top:20%;
 }
 
 .block4>h1 {
@@ -169,7 +171,7 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	color: #b2b200;
 		line-height: .8;
-
+padding-top:20%;
 }
 
 
