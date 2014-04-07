@@ -88,7 +88,7 @@ body {
 
 
   .block2 {
-    background-color:#ff00ff;
+    	background-color:#ff00ff;
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
@@ -102,7 +102,7 @@ body {
   }
 
   .block3 {
-    background-color:#00FFFF;
+	background-color:#00FFFF;
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
@@ -135,7 +135,8 @@ body {
 
 .block1>h1 {
 	
-	text-align:center;
+text-align: center;
+vertical-align: middle;
 	margin: 0 auto;
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
