@@ -140,6 +140,7 @@ body {
 	margin: 0 auto;
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
+	color: gray;
 	text-shadow: 0px 2px 3px #666;
 }
 
@@ -150,7 +151,7 @@ body {
 	margin: 0 auto;
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
-	color: 7f007f;
+	color: 580058;
 	text-shadow: 0px 2px 3px #666;
 }
 
