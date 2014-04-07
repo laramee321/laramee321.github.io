@@ -150,6 +150,7 @@ vertical-align:middle;
 	font-family: helvetica, arial, sans-serif;
 	color: #B3B3B3;
 	vertical-align: middle;
+	line-height: 25vh;
 }
 
 .colorblocks>div>h1{
@@ -158,7 +159,7 @@ vertical-align:middle;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: #B3B3B3;
-	line-height: 25vh;
+	line-height: 1;
 	vertical-align: middle;
 	letter-spacing: .3em;
 }
