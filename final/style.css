@@ -132,6 +132,8 @@ body {
 	width:100%;
 	height: 25vh;
 	right:0px;
+	display:table-cell;
+vertical-align:middle;
   }
 
   .block4:hover{
