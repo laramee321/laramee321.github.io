@@ -140,6 +140,7 @@ body {
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
 	color: #333333;
+		padding:5% 5%;
 }
 
 .block2>h1 {
@@ -149,6 +150,7 @@ body {
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
 	color: #580058;
+		padding:5% 5%;
 }
 
 .block3>h1 {
@@ -158,6 +160,7 @@ body {
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
 	color: #668B8B;
+		padding:5% 5%;
 }
 
 .block4>h1 {
