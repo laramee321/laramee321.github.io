@@ -178,8 +178,8 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	color: #b2b200;
 		line-height: .8;
- vertical-align: center;
-
+		display:table-cell;
+	 vertical-align: middle;
 }
 
 
