@@ -70,7 +70,7 @@ body {
 
 
   .block1 {
-  	position:absolute;
+  	position:relative;
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
@@ -89,7 +89,7 @@ body {
 
 
   .block2 {
-  	  	position:absolute;
+  	  	position:relative;
 
     	background-color:#ff00ff;
   	transition: background-color 1s;
@@ -105,7 +105,7 @@ body {
   }
 
   .block3 {
-  	  	position:absolute;
+  	  	position:relative;
 
 	background-color:#00FFFF;
   	transition: background-color 1s;
@@ -122,7 +122,7 @@ body {
   }
 
   .block4 {
-  	  	position:absolute;
+  	  	position:relative;
 
 	background-color:#ffff00;
   	transition: background-color 1s;
