@@ -165,7 +165,6 @@ body {
 .block4>h1 {
 	
 	width: 50%;
-  display: table-cell;
   vertical-align: middle;
 	margin: 0 auto;
 	font-size: 50px;
