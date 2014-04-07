@@ -149,4 +149,6 @@ vertical-align:middle;
 	line-height: 25vh;
 	vertical-align: middle;
 }
-	
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
