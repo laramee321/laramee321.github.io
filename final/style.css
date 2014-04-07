@@ -139,7 +139,9 @@ vertical-align:middle;
   	background-color: #ffffb2;
   }
 
-
+.colorblocks{
+		margin: 0;
+}
 .colorblocks>div>a{
 	text-align: center;
 	margin: 0;
