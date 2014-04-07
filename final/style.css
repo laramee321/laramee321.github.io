@@ -148,9 +148,10 @@ vertical-align:middle;
 	margin: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
-	color: #B3B3B3;
-	vertical-align: middle;
+	color: white;
 	line-height: 25vh;
+	vertical-align: middle;
+	letter-spacing: -5pt;
 }
 
 .colorblocks>div>h1{
@@ -163,5 +164,8 @@ vertical-align:middle;
 	vertical-align: middle;
 	letter-spacing: -5pt;
 }
-a:link {text-decoration:none;}
-a:visited {text-decoration:none;}
+
+a:link {text-decoration:none
+color:white;}
+a:visited {text-decoration:none;
+color:white;}
