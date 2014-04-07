@@ -136,7 +136,7 @@ body {
 .block1>h1 {
 	
 	text-align: center;
-	margin: 0 auto;
+	margin: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: #333333;
@@ -145,7 +145,7 @@ body {
 .block2>h1 {
 	text-align: center;
 	width: 50%;
-	margin: 0 auto;
+	margin: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: #580058;
@@ -154,7 +154,7 @@ body {
 .block3>h1 {
 	text-align: center;
 	width: 50%;
-	margin: 0 auto;
+	margin: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: #668B8B;
@@ -164,7 +164,7 @@ body {
 .block4>h1 {
 	text-align: center;
 	width: 50%;
-	margin: 0 auto;
+	margin: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: #b2b200;
