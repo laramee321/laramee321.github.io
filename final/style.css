@@ -165,7 +165,7 @@ body {
 .block4>h1 {
 	
 	width: 50%;
-	height: 50%;
+	line-height: 50%;
 	margin: 0 auto;
 	font-size: 50px;
 	font-family: helvetica, arial, sans-serif;
