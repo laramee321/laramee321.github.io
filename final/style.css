@@ -176,7 +176,7 @@ color:white;}
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
-	float:top;
+	float:right;
 	width:50%;
 	height: 50vh;
 	display:block;
@@ -212,7 +212,7 @@ color:white;}
   	transition: background-color 1s;
 	margin:0px;
 	padding: 0px;
-	float:top;
+	float:right;
 	width:50%;
 	height: 50vh;
 	display:block;
