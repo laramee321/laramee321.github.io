@@ -68,7 +68,7 @@ body {
 	
 }
 
-  .block1 {
+  .blocks1 {
   	  position:relative;
 	background-color: black;
 	transition: height 1.5s, background-color 1s;
@@ -81,7 +81,7 @@ body {
   }
   
 
-  .block1:active{
+  .blocks1:active{
   	clear:float;
   	background-color: #424242;
 	height: 100vh;
