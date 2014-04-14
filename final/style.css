@@ -153,8 +153,7 @@ body {
 	color: white;
   width: 50%;
   height: 50%;
-  overflow: auto;
-  margin: 0;
+  margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
 
