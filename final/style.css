@@ -154,10 +154,7 @@ body {
   width: 50%;
   height: 50%;
   text-align: center;
-  	margin-top:auto;
-	margin-bottom:auto;
-	margin-right:0;
-	margin-left:0;
+	margin: auto;
   position: absolute;
   padding: 0;
   top: 0; left: 0; bottom: 0; right: 0;
