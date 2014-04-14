@@ -65,7 +65,7 @@ body {
 	margin:0px;
 }
 
-.block2~.block1:active{
+#div:active{
 	height:0vh;
 	
 }
