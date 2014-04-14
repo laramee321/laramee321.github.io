@@ -83,12 +83,12 @@ body {
   
   
   .block1:hover{
-  	background-color: #424242;
+
   }
   
 
   .block1:active{
-
+  	background-color: #424242;
 	height: 100vh;
 }
 
@@ -105,12 +105,13 @@ body {
   }
   
     .block2:hover{
-  	background-color: #ff99ff;
+
   }
 
   .block2:active{ 
   	  	clear:float;
 	height: 100vh;
+	  	background-color: #ff99ff;
 }
 
   .block3 {
@@ -127,11 +128,12 @@ body {
   
 
   .block3:hover{
-  	background-color: #8FD8D8;
+
   }
   
   .block3:active{ 
 	height: 100vh;
+	  	background-color: #8FD8D8;
 }
 
 
@@ -148,11 +150,12 @@ body {
   }
 
   .block4:hover{
-  	background-color: #ffffb2;
+ 
   }
 
   .block4:active{ 
 	height: 100vh;
+	 	background-color: #ffffb2;
 }
 
 
