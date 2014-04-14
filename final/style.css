@@ -117,7 +117,7 @@ body {
 	  	background-color: #ff99ff;
 }
 
-	#block2:active + #block1 { 
+	.block2:active ~ .block1 { 
 		clear:float;
 		height: 0vh; }
 
