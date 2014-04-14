@@ -109,6 +109,10 @@ body {
   	background-color: #ff99ff;
   }
 
+  .block2:active{ 
+	height: 100vh;
+}
+
   .block3 {
   	  position:relative;
 	background-color:#00FFFF;
