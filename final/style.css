@@ -148,14 +148,14 @@ body {
 
 
 .colorblocks>div>h1{
-	text-align: center;
+
 	margin: 0;
 	position: absolute;
 	top: 0; left: 0; bottom: 0; right: 0;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
-	line-height: 25vh;
+	line-height: 5vh;
 	vertical-align: middle;
 	letter-spacing: -5pt;
 
