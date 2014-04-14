@@ -117,7 +117,9 @@ body {
 	  	background-color: #ff99ff;
 }
 
-	.block2:active + .block1 { height: 0vh; }
+	.block2:active + .block1 { 
+		clear:float;
+		height: 0vh; }
 
   .block3 {
   	  position:relative;
