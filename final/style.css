@@ -151,13 +151,12 @@ body {
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
-	text-align: center;
-	line-height: 25vh;
-	vertical-align: middle;
-	letter-spacing: -5pt;
-	margin: auto;
-	position: absolute;
-	top: 0; left: 0; bottom: 0; right: 0;
+  width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
 
 }
 
