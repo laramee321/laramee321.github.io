@@ -68,7 +68,7 @@ body {
 
 
 
-	.block1, .block2, .block3, .block4:active { 
+	.colorblocks > div:active { 
 		clear:float;
 		height: 0vh; }
 
