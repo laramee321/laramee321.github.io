@@ -111,9 +111,10 @@ body {
 
   }
 
-	.block1 .block2 .block3 .block4:active { 
+	.block1, .block2, .block3, .block4:active { 
 		clear:float;
 		height: 0vh; }
+		
   .block2:active{ 
   	  	clear:float;
 		height: 100vh;
