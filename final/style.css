@@ -93,6 +93,8 @@ body {
 	height: 100vh;
 }
 
+	.block2:active + .block1 { height: 0px; }
+
   .block2 {
   	  position:relative;
 	background-color:#FF00FF;  	
