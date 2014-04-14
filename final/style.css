@@ -87,7 +87,13 @@ body {
   }
   
 
-
+.block1:active{
+  	transition: height 1s;
+	width:100%;
+	height: 100%;
+	display:block;
+	
+}
 
   .block2 {
   	  position:relative;
