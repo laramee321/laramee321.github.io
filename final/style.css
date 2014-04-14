@@ -65,7 +65,10 @@ body {
 	margin:0px;
 }
 
-
+.block2~.block1:active{
+	height:0vh;
+	
+}
 
   .block1 {
   	  position:relative;
