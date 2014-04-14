@@ -87,7 +87,7 @@ body {
   }
   
 
-  .block1:click{
+  .block1:active{
   	background-color: #424242;
 	height: 100vh;
 }
