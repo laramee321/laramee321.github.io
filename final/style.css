@@ -93,7 +93,7 @@ body {
 	height: 100vh;
 }
 
-	.block2:active + .block1 { height: 0px; }
+
 
   .block2 {
   	  position:relative;
@@ -116,6 +116,8 @@ body {
 		height: 100vh;
 	  	background-color: #ff99ff;
 }
+
+	.block2:active + .block1 { height: 0vh; }
 
   .block3 {
   	  position:relative;
