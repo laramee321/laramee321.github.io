@@ -111,15 +111,16 @@ body {
 
   }
 
+	.block1, .block2, .block3, .block4:active { 
+		clear:float;
+		height: 0vh; }
   .block2:active{ 
   	  	clear:float;
 		height: 100vh;
 	  	background-color: #ff99ff;
 }
 
-	.block2:active { 
-		clear:float;
-		height: 0vh; }
+
 
   .block3 {
   	  position:relative;
