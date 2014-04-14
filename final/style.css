@@ -230,7 +230,7 @@ color:white;}
     .block2:active{
   	background-color: #ff99ff;
   	height: 100vh;
-  		width: 100vh;
+  		width: 100%;
   }
 
   .block3 {
@@ -249,7 +249,7 @@ color:white;}
   .block3:active{
   	background-color: #8FD8D8;
   	height: 100vh;
-  		width: 100vh;
+  		width: 100%;
   }
 
   .block4 {
@@ -267,7 +267,7 @@ color:white;}
   .block4:active{
   	background-color: #ffffb2;
   	height: 100vh;
-  		width: 100vh;
+  		width: 100%;
   }
 
 
