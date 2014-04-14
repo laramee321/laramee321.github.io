@@ -73,6 +73,7 @@ body {
   	  position:relative;
 	background-color: black;
   	transition: background-color 1s;
+  	transition: height 1.5s;
 	margin:0px;
 	padding: 0px;
 	float:top;
