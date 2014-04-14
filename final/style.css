@@ -112,6 +112,11 @@ body {
   	  	clear:float;
 	height: 100vh;
 	  	background-color: #ff99ff;
+	  	
+	  	.block1{transition: height 1.5s
+	  		}
+	  	.block1:active{height:0vh;
+	  	}
 }
 
   .block3 {
