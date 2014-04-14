@@ -80,11 +80,6 @@ body {
 	display:block;
   }
   
-   
-  .block1:hover{
-
-  }
-  
 
   .block1:active{
   	clear:float;
@@ -104,10 +99,6 @@ body {
 	width:100%;
 	height: 25vh;
 	display:block;
-  }
-  
-    .block2:hover{
-
   }
 
 		
@@ -131,10 +122,6 @@ body {
 	display:block;
   }
   
-
-  .block3:hover{
-
-  }
   
   .block3:active{ 
   	clear:float;
@@ -153,10 +140,6 @@ body {
 	width:100%;
 	height: 25vh;
 	display:block;
-  }
-
-  .block4:hover{
- 
   }
 
   .block4:active{ 
