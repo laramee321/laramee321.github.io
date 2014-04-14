@@ -110,13 +110,8 @@ body {
 
   .block2:active{ 
   	  	clear:float;
-	height: 100vh;
+		height: 100vh;
 	  	background-color: #ff99ff;
-	  	
-	  	.block1{transition: height 1.5s
-	  		}
-	  	.block1:active{height:0vh;
-	  	}
 }
 
   .block3 {
@@ -198,7 +193,7 @@ color:white;}
 	  .block1 {
   	  position:relative;
 	background-color: black;
-  	transition: background-color 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
@@ -208,8 +203,10 @@ color:white;}
   }
   
   
-  .block1:hover{
+  .block1:active{
   	background-color: #424242;
+  		height: 100vh;
+  		width: 100vh;
   }
   
 
@@ -218,7 +215,7 @@ color:white;}
   .block2 {
   	  position:relative;
 	background-color:#FF00FF;
-  	transition: background-color 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
@@ -227,14 +224,16 @@ color:white;}
 	display:block;
   }
   
-    .block2:hover{
+    .block2:active{
   	background-color: #ff99ff;
+  	height: 100vh;
+  		width: 100vh;
   }
 
   .block3 {
   	  position:relative;
 	background-color:#00FFFF;
-  	transition: background-color 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
@@ -244,14 +243,16 @@ color:white;}
   }
   
 
-  .block3:hover{
+  .block3:active{
   	background-color: #8FD8D8;
+  	height: 100vh;
+  		width: 100vh;
   }
 
   .block4 {
   	  position:relative;
 	background-color:#FFFF00;
-  	transition: background-color 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
@@ -260,8 +261,10 @@ color:white;}
 	display:block;
   }
 
-  .block4:hover{
+  .block4:active{
   	background-color: #ffffb2;
+  	height: 100vh;
+  		width: 100vh;
   }
 
 
