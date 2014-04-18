@@ -180,6 +180,11 @@ body {
 	min-height: 0%;
 }
 
+a[height=25vh]
+{ 
+height=0vh
+}
+
 
 a:link {text-decoration:none;
 color:white;
