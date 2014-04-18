@@ -67,8 +67,7 @@ body {
 
 
   .block1 {
-  	max-height:100vh;
-  	min-height:0vh;
+
   	  position:relative;
 	background-color: black;
 	transition: height 1.5s, background-color 1s;
@@ -90,8 +89,7 @@ body {
 
 
   .block2 {
-  	  	max-height:100vh;
-  	min-height:0vh;
+
   	  position:relative;
 	background-color:#FF00FF;  	
 	transition: height 1.5s, background-color 1s;
@@ -113,8 +111,6 @@ body {
 
 
   .block3 {
-  	  	max-height:100vh;
-  	min-height:0vh;
   	  position:relative;
 	background-color:#00FFFF;
 	transition: height 1.5s, background-color 1s;
@@ -135,8 +131,7 @@ body {
 
 
   .block4 {
-  	  	max-height:100vh;
-  	min-height:0vh;
+
   	  position:relative;
 	background-color:#FFFF00;
 	transition: height 1.5s, background-color 1s;
@@ -163,8 +158,6 @@ body {
 
 
 .colorblocks>div>h1{
-	  	max-height:100vh;
-  	min-height:0vh;
 	font-size: 100px;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
