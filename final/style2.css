@@ -137,6 +137,7 @@ ul {
 #menu li a {  
     font-family:Helvetica, Arial, sans-serif;  
     font-size:40px;  
+    font-weight:bold;
     color: white;  
     display:block;  
     outline:0;  
