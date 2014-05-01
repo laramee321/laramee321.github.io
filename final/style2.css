@@ -63,7 +63,6 @@ h1 {
   	text-align: center;
 	margin: auto;
 	 position: relative;
-	 padding: 0;
 	 top: 0; left: 0; bottom: 10; right: 0;
   	}
 
@@ -74,8 +73,7 @@ h2 {
   	text-align: center;
 	margin: auto;
 	 position: relative;
-	 padding: 0,0,40,0;
-	 top: 0; left: 0; bottom: 0; right: 0;
+	 top: 0; left: 0; bottom: 20; right: 0;
   	}
   	
   	
@@ -86,7 +84,6 @@ p {
   	text-align: left;
 	margin: auto;
 	 position: relative;
-	 padding: 10;
-	 top: 0; left: 0; bottom: 0; right: 0;
+	 top: 10; left: 0; bottom: 0; right: 0;
 	 width: 375px;
   	}
