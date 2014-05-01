@@ -155,6 +155,7 @@ ul {
 
 #menu li:hover ul {
 	display:block;
+	position: relative;
 	background: none;
 	color:black;
 	float: top;
