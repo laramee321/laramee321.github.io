@@ -151,3 +151,13 @@ ul {
 	position:absolute;
 	top:20px;
 }
+
+#menu li ul li{  
+    float:left;  
+    display:block;  
+    text-align:center;  
+    position:relative;  
+    padding: 4px 17px 4px 17px;  
+    margin-right:10px;  
+    margin-top:7px;  
+    border: 1px solid white;
