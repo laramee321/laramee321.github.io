@@ -146,11 +146,3 @@ ul {
     float:bottom;
 }
 
-
-#menu li ul {
-	display:none;
-	position:absolute;
-	top:20px;
-}
-
-#menu ul li:a > ul { visibility: visible;}
