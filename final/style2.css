@@ -87,5 +87,6 @@ p {
 	margin: auto;
 	 position: relative;
 	 padding: 0;
-	 top: 0; left: 0; bottom: 10; right: 0;
+	 top: 10; left: 0; bottom: 10; right: 0;
+	 width: 30%;
   	}
