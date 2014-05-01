@@ -62,7 +62,7 @@ h1 {
 	color: white;
   	text-align: center;
 	margin: auto;
-	 position: absolute;
+	 position: relative;
 	 padding: 0;
 	 top: 0; left: 0; bottom: 10; right: 0;
   	}
@@ -73,7 +73,7 @@ h2 {
 	color: white;
   	text-align: center;
 	margin: auto;
-	 position: absolute;
+	 position: relative;
 	 padding: 0;
 	 top: 0; left: 0; bottom: 10; right: 0;
   	}
