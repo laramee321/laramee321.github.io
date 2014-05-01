@@ -157,16 +157,7 @@ ul {
 	display:block;
 	background: none;
 	color:black;
-	float: below;
+	float: top;
 	
 }
 
-#menu ul li ul
-{
-	display: block;
-	color:black;
-	background:none;
-	float: below;
-	font-size: 16px;
-	
-}
