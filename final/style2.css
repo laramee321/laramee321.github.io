@@ -114,6 +114,7 @@ ul {
 
 
 #menu {  
+	
     list-style:none;  
     width:940px;  
     margin:30px auto 0px auto;  
@@ -122,7 +123,7 @@ ul {
 }
 
 #menu li {  
-    float:left;  
+    float:center;  
     display:block;  
     text-align:center;  
     position:relative;  
