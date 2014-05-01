@@ -135,14 +135,14 @@ ul {
 
 #menu li:hover {  
     border: 1px solid #E0E0E0;  
-    background: #F4F4F4;  
+    background: #black;  
 
 }
 
 #menu li a {  
-    font-family:Arial, Helvetica, sans-serif;  
+    font-family:Helvetica, Arial, sans-serif;  
     font-size:14px;  
-    color: gray;  
+    color: white;  
     display:block;  
     outline:0;  
     text-decoration:none;  
