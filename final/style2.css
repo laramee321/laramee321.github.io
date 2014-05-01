@@ -133,19 +133,21 @@ ul {
     border: 1px solid white;  
 }
 
-#menu li:hover {  
-    border: 1px solid #E0E0E0;  
-    background: #F4F4F4;
-    }
 
 #menu li a {  
     font-family:Helvetica, Arial, sans-serif;  
     font-size:14px;  
-    color: gray;  
+    color: white;  
     display:block;  
     outline:0;  
     text-decoration:none;  
 }
+
+#menu li:hover {  
+    border: 1px solid #E0E0E0;  
+    background: #F4F4F4;
+    color: black;
+    }
 
 #menu li ul {
 	display:none;
