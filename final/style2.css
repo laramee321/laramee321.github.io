@@ -130,7 +130,7 @@ ul {
     padding: 6px 17px;  
     margin-right:10px;  
     margin-top:7px;  
-    border: 1px solid white;  
+    border: 1px solid black;  
 }
 
 
@@ -144,11 +144,6 @@ ul {
     text-decoration:none;  
 }
 
-#menu li:hover {  
-    border: 1px solid #E0E0E0;  
-    background: #F4F4F4;
-    color: black;
-    }
 
 #menu li ul {
 	display:none;
