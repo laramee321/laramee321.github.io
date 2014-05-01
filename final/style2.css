@@ -96,3 +96,14 @@ p {
 	 top: 10px; left: 0; bottom: 20px; right: 0;
 	 width: 375px;
   	}
+
+ul {
+	font-size: 12px;
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+  	text-align: left;
+	margin: auto;
+	 position: relative;
+	 top: 10px; left: 0; bottom: 20px; right: 0;
+	 width: 375px;
+  	}
