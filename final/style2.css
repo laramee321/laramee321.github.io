@@ -160,3 +160,11 @@ ul {
 	float: below;
 	
 }
+
+#menu ul li ul li
+{
+	display: block;
+	color:white;
+	background:none;
+	float: below;
+}
