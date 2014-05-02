@@ -77,18 +77,25 @@
 				
 				
 	<body bgcolor="black">
-
+<div id="background">
+	
+</div>
 
 
 <script>
 $(document).ready(function() {
+	
+	$( "#background" ).click(function() {
+	  $( "#education" ).hide("blind", 1000);
+	  $( "#software" ).hide("blind", 1000);
+	  $( "#freelance" ).hide("blind", 1000);
+	  $( "#experience" ).hide("blind", 1000);
 	
 	$( "#option1-header" ).click(function() {
 	  $( "#education" ).show("blind", 1000);
 	  $( "#software" ).hide("blind", 1000);
 	  $( "#freelance" ).hide("blind", 1000);
 	  $( "#experience" ).hide("blind", 1000);
-	  $( "background" ).hide("blind", 1000);
 	})
 	
 	$( "#option2-header" ).click(function() {
