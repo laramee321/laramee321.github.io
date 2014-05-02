@@ -155,17 +155,7 @@ ul {
 	top:20px;
 }
 
-#menu li:hover ul {
-	display:block;
-	position: relative;
-	background: none;
-	color:black;
-	float: top;
-	font-size:16px;
-	margin:auto;
-    text-decoration:none; 
-	padding:0px 0px 0px 0px;  
-}
+
 
 a:link {text-decoration:none;
 color:white;
