@@ -77,14 +77,6 @@ h2 {
 	 position: relative;
   	}
   	
-h3 {
-	font-size: 30px;
-	font-family: helvetica, arial, sans-serif;
-	color: white;
-  	text-align: center;
-	margin: auto;
-	 position: relative;
-}  
 
 h4 {
 	font-size: 30px;
@@ -102,7 +94,6 @@ p {
   	text-align: left;
 	margin: auto;
 	 position: relative;
-	 top: 10px; left: 0; bottom: 10px; right: 0;
 	 width: 375px;
   	}
 
@@ -113,11 +104,14 @@ li {
   	text-align: left;
 	margin: auto;
 	 position: relative;
-	 top: 20px; left: 0; bottom: 20px; right: 0;
+
 	 width: 375px;
   	}
 
-
+section {
+	width: 375px;
+	margin: auto;
+}
 
 
 
