@@ -156,4 +156,10 @@ color:white;}
 #option4 ul {
 	display:none;
 }
-	
+
+
+
+.background {
+	height:100vh;
+	width:100vh;
+}
