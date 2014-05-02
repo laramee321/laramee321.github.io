@@ -1,115 +1,119 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-	<script type="text/javascript">google.load("jquery", "1.3.2");</script>
-    <link rel="stylesheet" href="style2.css" type="text/css" media="screen" />
-    <meta name="viewport" content="initial-scale=1">
-  </head>
-  <body>
-  
-  
-	<h1> <a href="http://laramee321.github.io/final/">eoin laramee </a></h1>
-	<h2> graphic artist</h2>
-		<p>I had the privilege of being raised in 3 separate towns; this gave me the ability to adapt to my surroundings and determine exactly what people want from me. I now use that skill to help my clients figure out what they need in their designs.</p>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	
+		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
 	
-<ul id="menu">
-	<li id="edu"><a href="#">educational background</a>
-		<ul id="education">
-			<li>Massachusetts College of Art and Design</li>
-			<li>Duxbury High School</li>
-		</ul></li>
+	    <link rel="stylesheet" href="style2.css" type="text/css" media="screen" />
 		
-	<li id="soft"><a href="#">software qualifications</a>
-		<ul id="sofware">
-			<li>Windows & Mac</li>
-			<li>Photoshop</li>
-			<li>Illustrator</li>
-			<li>InDesign</li>
-			<li>After Effects</li>
-			<li>Dreamweaver</li>
-			<li>Microsoft Word</li>
-			<li>Excel</li>
-			<li>Power Point</li>
-			<li>Outlook</li>
-			<li>Corel Painter</li>
-			<li>Google Sketchup</li>
-		</ul></li>
-	
-	<li id="free"><a href="#">freelance work</a>
-		<ul id="freelance">
-			<li>logo design for</li>
-			<li>Sponsaur</li>
-			<li>SCRIMR</li>
-			<li>Killer Rigs</li>
-			<li>RMNTCSM</li>
-			<li>HEX Clothes</li>
-			<li>cd cover design</li>
-			<li>RMNTCSM</li>
-			<li>CRIME PAYS</li>
-			<li>poster design</li>
-			<li>CRIME PAYS</li>
-	
-	</ul></li>
+		<meta name="viewport" content="initial-scale=1">
+	</head>
 
-	<li id="job"><a href="#">job experience</a>
-		<ul id="experience">
-			<li>Utrecht Art Supply, 2013</li>
-			<li>Zumiez, 2013</li>
-			<li>Papa Gino’s, 2010-2012</li>
-			<li>Duxbury Art Association, 2010</li>
-			<li>Farfar’s Danish Ice Cream, 2008-2010</li>
-		</ul></li>
-	
-	
-	</ul>
+	<body>
+		<h1> <a href="http://laramee321.github.io/final/">eoin laramee </a></h1>
+		<h2> graphic artist</h2>
+		<p>I had the privilege of being raised in 3 separate towns; this gave me the ability to adapt to my surroundings and determine exactly what people want from me. I now use that skill to help my clients figure out what they need in their designs.</p>	
 
-	
-	
+		
+		
+		
+				<section id="option1">
+					<h3 id="option1-header">educational background</h3>
+						<ul id="education">
+							<li>Massachusetts College of Art and Design</li>
+							<li>Duxbury High School</li>
+						</ul>
+				</section>
+				
+				<section id="option2">
+					<h3 id="option2-header">software qualifications</h3>
+						<ul id="sofware">
+							<li>Windows & Mac</li>
+							<li>Photoshop</li>
+							<li>Illustrator</li>
+							<li>InDesign</li>
+							<li>After Effects</li>
+							<li>Dreamweaver</li>
+							<li>Microsoft Word</li>
+							<li>Excel</li>
+							<li>Power Point</li>
+							<li>Outlook</li>
+							<li>Corel Painter</li>
+							<li>Google Sketchup</li>
+						</ul>
+				</section>
+				
+				<section id="option3">
+					<h3 id="option3-header">freelance work</h3>
+						<ul id="freelance">
+							<li>logo design for</li>
+							<li>Sponsaur</li>
+							<li>SCRIMR</li>
+							<li>Killer Rigs</li>
+							<li>RMNTCSM</li>
+							<li>HEX Clothes</li>
+							<li>cd cover design</li>
+							<li>RMNTCSM</li>
+							<li>CRIME PAYS</li>
+							<li>poster design</li>
+							<li>CRIME PAYS</li>
+						</ul>
+				</section>
+				
+				<section id="option4">
+					<h3 id="option4-header">job experience</h3>
+						<ul id="experience">
+						<li>Utrecht Art Supply, 2013</li>
+						<li>Zumiez, 2013</li>
+						<li>Papa Gino’s, 2010-2012</li>
+						<li>Duxbury Art Association, 2010</li>
+						<li>Farfar’s Danish Ice Cream, 2008-2010</li>
+					</ul>
+				</section>
+				
+				
+				
 	<body bgcolor="black">
-	<script>$(document).ready(function() {
+
+
+
+<script>
+$(document).ready(function() {
 	
-	$(".pinned").pin({
-	      containerSelector: "#content"
-	})
-	
-	$(".fancybox").fancybox();
-	
-	$( "#toggle-clickr" ).click(function() {
-	  $( "#toggle" ).show("blind", 1000);
-	})
-	
-	$( "#edu" ).click(function() {
+	$( "#option1-header" ).click(function() {
 	  $( "#education" ).show("blind", 1000);
 	  $( "#software" ).hide("blind", 1000);
 	  $( "#freelance" ).hide("blind", 1000);
 	  $( "#experience" ).hide("blind", 1000);
 	})
 	
-	$( "#soft" ).click(function() {
+	$( "#option2-header" ).click(function() {
 	  $( "#education" ).hide("blind", 1000);
 	  $( "#software" ).show("blind", 1000);
 	  $( "#freelance" ).hide("blind", 1000);
 	  $( "#experience" ).hide("blind", 1000);
 	})
 	
-	$( "#free" ).click(function() {
+	$( "#option3-header" ).click(function() {
 	  $( "#education" ).hide("blind", 1000);
 	  $( "#software" ).hide("blind", 1000);
 	  $( "#freelance" ).show("blind", 1000);
 	  $( "#experience" ).hide("blind", 1000);
 	})
 	
-	$( "#job" ).click(function() {
+	$( "#option4-header" ).click(function() {
 	  $( "#education" ).hide("blind", 1000);
 	  $( "#software" ).hide("blind", 1000);
 	  $( "#freelance" ).hide("blind", 1000);
 	  $( "#experience" ).show("blind", 1000);
 	})
 
-});</script>
+});
+</script>
 	
 	
-  </body>
+</body>
 </html>
