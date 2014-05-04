@@ -81,43 +81,16 @@
 
 <script>
 $(document).ready(function() {
-	  $( "background" ).click(function() {
-	  $( "#education" ).hide("blind", 1000);
-	  $( "#software" ).hide("blind", 1000);
-	  $( "#freelance" ).hide("blind", 1000);
-	  $( "#experience" ).hide("blind", 1000);
-	})
-	
-	$( "#option1-header" ).click(function() {
-	  $( "#education" ).show("blind", 1000);
-	  $( "#software" ).hide("blind", 1000);
-	  $( "#freelance" ).hide("blind", 1000);
-	  $( "#experience" ).hide("blind", 1000);
-	})
-	
-	$( "#option2-header" ).click(function() {
-	  $( "#education" ).hide("blind", 1000);
-	  $( "#software" ).show("blind", 1000);
-	  $( "#freelance" ).hide("blind", 1000);
-	  $( "#experience" ).hide("blind", 1000);
-	})
-	
-	$( "#option3-header" ).click(function() {
-	  $( "#education" ).hide("blind", 1000);
-	  $( "#software" ).hide("blind", 1000);
-	  $( "#freelance" ).show("blind", 1000);
-	  $( "#experience" ).hide("blind", 1000);
-	})
-	
-	$( "#option4-header" ).click(function() {
-	  $( "#education" ).hide("blind", 1000);
-	  $( "#software" ).hide("blind", 1000);
-	  $( "#freelance" ).hide("blind", 1000);
-	  $( "#experience" ).show("blind", 1000);
-	})
-
-
-
+ $( "section h4" ).click(function() {
+  var section = $(this).parent();
+  var info = $(this).siblings();
+  if (info.is(":visible")) {
+   info.hide("blind", 1000);
+  } else {
+   $("section ul").hide("blind", 1000);
+   info.show("blind", 1000);
+  }
+ });
 });
 </script>
 	
