@@ -141,6 +141,10 @@ color:white;
 a:visited {text-decoration:none;
 color:white;}
 
+img {
+	max-width: 355;
+	
+}
 
 
 #option1 {
