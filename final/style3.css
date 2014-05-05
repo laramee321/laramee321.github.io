@@ -103,7 +103,7 @@ div > p{
 	color: #FF00FF;
   	text-align: left;
 	margin: auto;
-	padding: 0px;
+	padding: auto;
 	 position: relative;
 	
 }
