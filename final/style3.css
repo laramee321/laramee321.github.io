@@ -183,8 +183,10 @@ img {
 
 
 
-#4pics img {
+#4pics > img {
 	display: inline;
 	max-width: 85px;
 	height:auto;
+	padding:5px;
+	margin: 0px;
 }
