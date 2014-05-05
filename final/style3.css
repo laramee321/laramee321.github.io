@@ -108,7 +108,8 @@ div > p{
 	color: #FF00FF;
   	text-align: left;;
 	position: relative;
-	margin: 0px, 10px, 0px, 10px !important;
+	margin: 0px, 10px, 0px, 10px;
+	margin-top: 0px;
 	padding:0px;
 	width: 355px;
 
