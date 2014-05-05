@@ -97,6 +97,12 @@ p {
 	 width: 375px;
   	}
 
+div {
+	margin:auto;
+	padding:auto;
+}
+
+
 div > p{		
 	font-size: 16px;
 	font-family: helvetica, arial, sans-serif;
