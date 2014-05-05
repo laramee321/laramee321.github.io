@@ -101,8 +101,8 @@ li {
 	font-size: 16px;
 	font-family: helvetica, arial, sans-serif;
 	color: #FF00FF;
-  	text-align: center;
-	margin: auto;
+  	text-align: left;
+	margin: 10px;
 	 position: relative;
   	}
 
