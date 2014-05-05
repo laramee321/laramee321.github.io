@@ -183,7 +183,7 @@ img {
 
 
 
-#4pics > img {
+section > img {
 	display: inline;
 	max-width: 85px;
 	height:auto;
