@@ -37,31 +37,5 @@
   </div>
   
   
-  <script>
-  
-  $(document).ready(function() {
- $( "div h1" ).click(function() {
-  var section = $(this).parent();
-  var info = $(this).siblings();
-  if (info.is(":visible")) {
-   info.hide("blind", 1000);
-  } else {
-   $("div").hide("blind", 1000);
-   info.show("blind", 1000);
-  }
- });
-  
-  	$('a').click(function (e) {
-    e.preventDefault();                   // prevent default anchor behavior
-    var goTo = this.getAttribute("href"); // store anchor href
-
-    // do something while timeOut ticks ... 
-
-    setTimeout(function(){
-         window.location = goTo;
-    },1000);       
-}); 
-  </script>
-  
 </body>
 </html>
