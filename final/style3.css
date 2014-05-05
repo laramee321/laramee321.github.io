@@ -106,10 +106,9 @@ div > p{
 	font-size: 16px;
 	font-family: helvetica, arial, sans-serif;
 	color: #FF00FF;
-  	text-align: left;
-	margin: 0px;
+  	text-align: left;;
 	 position: relative;
-		padding:0px, 10px, 0px, 10px;
+		margin:0px, 10px, 0px, 10px;
 
 }
 
