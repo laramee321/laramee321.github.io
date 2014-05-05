@@ -184,12 +184,17 @@ img {
 
 
 section > img {
+	border
 	display: inline;
 	max-width: 85px;
 	height:auto;
-	padding:5px;
+	border-right:5px solid #white;
+	padding:0px;
 	margin:0px;
+}
 
+section > img.last{
+	border-right: 0px;
 
 #pics {
 	padding: 0px;
