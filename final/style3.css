@@ -107,8 +107,9 @@ div > p{
 	font-family: helvetica, arial, sans-serif;
 	color: #FF00FF;
   	text-align: left;;
-	 position: relative;
-		margin: 10px;
+	position: relative;
+	margin: 10px;
+	width: 350px;
 
 }
 
