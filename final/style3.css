@@ -98,8 +98,8 @@ p {
   	}
 
 div {
-	margin:auto;
-	padding:auto;
+	margin:0px;
+	padding:0px, 10px, 0px, 10px;
 }
 
 
@@ -108,8 +108,8 @@ div > p{
 	font-family: helvetica, arial, sans-serif;
 	color: #FF00FF;
   	text-align: left;
-	margin: 10px;
-	padding: auto;
+	margin: 0px;
+	padding: 0px;
 	 position: relative;
 	
 }
