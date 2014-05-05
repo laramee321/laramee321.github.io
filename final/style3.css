@@ -188,7 +188,7 @@ section > img {
 	display: inline;
 	max-width: 85px;
 	height:auto;
-	border-right:5px solid white;
+	border-right:2.5px solid white;
 	padding:0px;
 	margin:0px;
 }
