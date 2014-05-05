@@ -196,3 +196,11 @@ section > img {
 	margin: 0px, 10px, 0px, 10px;
 	margin-top: 0px;	
 }
+
+#pics > img {
+	display: inline;
+	max-width: 85px;
+	height:auto;
+	padding:5px;
+	margin:0px;
+}
