@@ -1,11 +1,96 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
-  </head>
-  <body>
-  
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+	
+	    <link rel="stylesheet" href="style2.css" type="text/css" media="screen" />
+		
+		<meta name="viewport" content="initial-scale=1">
+	</head>
+
+	<body>
+		<h1> <a href="http://laramee321.github.io/final/">client work</a></h1>
+		<p> These are commissioned works for clients, with my most recent works first. </p> 
+		
+		
+				<section id="option1">
+					<h4 id="option1-header">SCRIMR</h3>
+						<ul id="education">
+							<li>Massachusetts College of Art and Design</li>
+							<li>Duxbury High School</li>
+						</ul>
+				</section>
+				
+				<section id="option2">
+					<h4 id="option2-header">Sponsaur</h3>
+						<ul id="software">
+							<li>Windows & Mac</li>
+							<li>Photoshop</li>
+							<li>Illustrator</li>
+							<li>InDesign</li>
+							<li>After Effects</li>
+							<li>Dreamweaver</li>
+							<li>Microsoft Word</li>
+							<li>Excel</li>
+							<li>Power Point</li>
+							<li>Outlook</li>
+							<li>Corel Painter</li>
+							<li>Google Sketchup</li>
+						</ul>
+				</section>
+				
+				<section id="option3">
+					<h4 id="option3-header">Crime Pays</h3>
+						<ul id="freelance">
+							<li>logo design for</li>
+							<li>Sponsaur</li>
+							<li>SCRIMR</li>
+							<li>Killer Rigs</li>
+							<li>RMNTCSM</li>
+							<li>HEX Clothes</li>
+							<li>cd cover design</li>
+							<li>RMNTCSM</li>
+							<li>CRIME PAYS</li>
+							<li>poster design</li>
+							<li>CRIME PAYS</li>
+						</ul>
+				</section>
+				
+				<section id="option4">
+					<h4 id="option4-header">HEX Clothes</h3>
+						<ul id="experience">
+						<li>Utrecht Art Supply, 2013</li>
+						<li>Zumiez, 2013</li>
+						<li>Papa Gino’s, 2010-2012</li>
+						<li>Duxbury Art Association, 2010</li>
+						<li>Farfar’s Danish Ice Cream, 2008-2010</li>
+					</ul>
+				</section>
+				
+				
+				
+	<body bgcolor="#FF00FF">
 
 
-  </body>
+<script>
+$(document).ready(function() {
+ $( "section h4" ).click(function() {
+  var section = $(this).parent();
+  var info = $(this).siblings();
+  if (info.is(":visible")) {
+   info.hide("blind", 750);
+  } else {
+   $("section ul").hide("blind", 750);
+   info.show("blind", 750);
+  }
+ });
+});
+</script>
+	
+	
+</body>
 </html>
