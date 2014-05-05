@@ -184,7 +184,7 @@ img {
 
 
 #4pics img {
-	display: inline-block;
+	display: inline;
 	max-width: 85px;
 	height:auto;
 }
