@@ -97,7 +97,7 @@ p {
 	 width: 375px;
   	}
 
-h4 p{		
+h4 > p{		
 	font-size: 16px;
 	font-family: helvetica, arial, sans-serif;
 	color: #FF00FF;
