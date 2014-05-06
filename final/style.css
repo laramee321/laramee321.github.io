@@ -85,6 +85,7 @@ body {
   	clear:float;
   	background-color: #424242;
 	height: 100vh;
+	position:absolute;
     top:0;
     left:0;
     width:100%;
@@ -113,8 +114,8 @@ body {
   	  	clear:float;
 		height: 100vh;
 	  	background-color: #ff99ff;
-	  	
-	  	    top:0;
+position:absolute;
+    top:0;
     left:0;
     width:100%;
     height:100%;
