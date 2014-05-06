@@ -52,11 +52,12 @@
 	 		 $( "#block2" ).hide("blind", 1000);
 	 		 $( "#block3" ).hide("blind", 1000);
 			 $( "#block4" ).hide("blind", 1000);
-	})
-     $(this).attr('href');
-        setTimeout(function() {window.location = href}, 1000);
-        return false;
-    });
+
+$("#a_context a").click(function(e) {
+  e.preventDefault();
+  var destination = $(this).attr('href');
+  setTimeout(function() { window.location.href = destination; }, 1000);
+});
 });	
 </script>
 
