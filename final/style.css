@@ -201,25 +201,25 @@ link:active{
 
 	
 	
-#divfull1  {
+.divfull1  {
 	display:none;
 	width: 100%;
 	height: 100vh;
 }
 
-#divfull2  {
+.divfull2  {
 	display:none;
 	width: 100%;
 	height: 100vh;
 }
 
-#divfull3  {
+.divfull3  {
 	display:none;	
 	width: 100%;
 	height: 100vh;
 }
 
-#divfull4  {
+.divfull4  {
 	display:none;	
 	width: 100%;
 	height: 100vh;
