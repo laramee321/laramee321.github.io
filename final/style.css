@@ -70,7 +70,7 @@ body {
 
   	  position:relative;
 	background-color: black;
-	transition: height 1.5s, background-color 1s;
+	transition: height 1s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:top;
@@ -93,7 +93,7 @@ body {
 
   	  position:relative;
 	background-color:#FF00FF;  	
-	transition: height 1.5s, background-color 1s;
+	transition: height 1s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:top;
@@ -115,7 +115,7 @@ body {
   .block3 {
   	  position:relative;
 	background-color:#00FFFF;
-	transition: height 1.5s, background-color 1s;
+	transition: height 1s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:top;
@@ -137,7 +137,7 @@ body {
 
   	  position:relative;
 	background-color:#FFFF00;
-	transition: height 1.5s, background-color 1s;
+transition-duration: 1s;
 	margin:0px;
 	padding: 0px;
 	float:top;
