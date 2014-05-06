@@ -47,17 +47,22 @@
 
 <script>
     $(document).ready(function() {
-    $("#block1").click(function() {
-    		 $( "#divfull" ).show("blind", 1000);
-	 		 $( "#block2" ).hide("blind", 1000);
-	 		 $( "#block3" ).hide("blind", 1000);
-			 $( "#block4" ).hide("blind", 1000);
-
-$("#a_context a").click(function(e) {
+    	
+    	$("#a_context a").click(function(e) {
   e.preventDefault();
   var destination = $(this).attr('href');
   setTimeout(function() { window.location.href = destination; }, 1000);
-});
+})
+    	
+    	
+    $("#block1").click(function() {
+    		$( "#divfull" ).show("blind", 1000);
+	 	$( "#block2" ).hide("blind", 1000);
+	 	$( "#block3" ).hide("blind", 1000);
+		$( "#block4" ).hide("blind", 1000);
+    })
+
+
 });	
 </script>
 
