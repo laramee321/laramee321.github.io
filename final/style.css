@@ -70,7 +70,7 @@ body {
 
   	  position:relative;
 	background-color: black;
-	transition-duration: 1s;
+transition:all 1s ease;
 	margin:0px;
 	padding: 0px;
 	float:top;
