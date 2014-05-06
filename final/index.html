@@ -48,7 +48,7 @@
 <script>
     $(document).ready(function() {
     	
-    	$("#a_context a").click(function(e) {
+    	$("a").click(function(e) {
   e.preventDefault();
   var destination = $(this).attr('href');
   setTimeout(function() { window.location.href = destination; }, 1000);
