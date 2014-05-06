@@ -85,12 +85,6 @@ transition:all 1s ease;
   	clear:float;
   	background-color: #424242;
 	height: 100vh;
-	position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    z-index:1000;
 }
 
 
@@ -114,11 +108,6 @@ transition:all 1s ease;
   	  	clear:float;
 		height: 100vh;
 	  	background-color: #ff99ff;
-position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
 }
 
 
@@ -141,12 +130,6 @@ position:absolute;
   	clear:float;
 	height: 100vh;
 	background-color: #8FD8D8;
-	z-index:1000;
-	position:fixed;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
 }
 
 
@@ -167,8 +150,8 @@ position:absolute;
   .block4:active{ 
   	clear:float;
 	height: 100vh;
-	 	background-color: #ffffb2;
-	 		z-index:1000;
+	background-color: #ffffb2;
+	z-index:1000;
 	position:absolute;
 	top:0;
 	left:0;
