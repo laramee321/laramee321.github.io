@@ -103,13 +103,6 @@ html, body {
 	color:#aaa;
 }
 
-.content h1 {
-	font-size:48px;
-	color:#000;
-	text-shadow:0px 1px 1px #f4f4f4;
-	text-align:center;
-	padding:60px 0 30px;	
-}
 
 /* LAYOUT */
 .container {
