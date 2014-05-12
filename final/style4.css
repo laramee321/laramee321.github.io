@@ -86,6 +86,10 @@ color:white;
 a:visited {text-decoration:none;
 color:white;}
 
+img{
+	width:928px;
+}
+
 div {
    animation: move 1s ease-in-out 0.5s 2 alternate;
    -moz-animation: move 1s ease-in-out 0.5s 2 alternate;
