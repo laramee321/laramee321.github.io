@@ -86,7 +86,10 @@ color:white;
 a:visited {text-decoration:none;
 color:white;}
 
-
+img{
+	width:680px;
+	height:auto;
+}
 
 @import url("reset.css") screen;
 @import url("animation.css") screen;
