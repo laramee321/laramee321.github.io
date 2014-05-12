@@ -1,6 +1,55 @@
 @import url("reset.css") screen;
 @import url("animation.css") screen;
 
+
+
+
+
+
+
+
+h1 {
+	letter-spacing: -4pt;
+	font-size: 100px;
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+  	text-align: center;
+	margin: auto;
+	 position: relative;
+	 text-decoration:none; 
+
+  	}
+  	
+p {
+		font-size: 16px;
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+  	text-align: left;
+	margin: auto;
+	margin-top: 10px;
+	 position: relative;
+	 width: 375px;
+  	}
+
+
+
+a:link {text-decoration:none;
+color:white;
+}
+a:visited {text-decoration:none;
+color:white;}
+
+
+
+
+
+
+
+
+
+
+
+
 /* Common */
 html, body {
 	background:#00FFFF;
@@ -115,35 +164,4 @@ html, body {
 }
 
 
-
-h1 {
-	letter-spacing: -4pt;
-	font-size: 100px;
-	font-family: helvetica, arial, sans-serif;
-	color: white;
-  	text-align: center;
-	margin: auto;
-	 position: relative;
-	 text-decoration:none; 
-
-  	}
-  	
-p {
-		font-size: 16px;
-	font-family: helvetica, arial, sans-serif;
-	color: white;
-  	text-align: left;
-	margin: auto;
-	margin-top: 10px;
-	 position: relative;
-	 width: 375px;
-  	}
-
-
-
-a:link {text-decoration:none;
-color:white;
-}
-a:visited {text-decoration:none;
-color:white;}
 
