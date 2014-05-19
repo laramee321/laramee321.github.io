@@ -232,6 +232,16 @@ color:white;}
 	width:50%;
 	height: 50vh;
 	display:block;
+  } .block1 {
+  	  position:relative;
+	background-color: black;
+	transition: height 1.5s, background-color 1s;
+	margin:0px;
+	padding: 0px;
+	float:left;
+	width:50%;
+	height: 50vh;
+	display:block;
   }
   
   
