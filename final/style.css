@@ -316,7 +316,7 @@ link:active{
   
 
   .block3:active{
-  		clear:float;
+float:top;
   	background-color: #8FD8D8;
   	height: 100vh;
   		width: 100%;
