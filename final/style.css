@@ -186,11 +186,51 @@ body {
 	min-height: 0%;
 }
 
+a[height=25vh]
+{ 
+height=0vh
+}
+
 
 a:link {text-decoration:none;
 color:white;}
 a:visited {text-decoration:none;
 color:white;}
+
+
+
+link:active{ 
+	clear:float;
+	height: 100vh;
+}
+
+	
+	
+.divfull1  {
+	display:none;
+	width: 100%;
+	height: 100vh;
+	background-color: #424242;
+}
+
+.divfull2  {
+	display:none;
+	width: 100%;
+	height: 100vh;
+}
+
+.divfull3  {
+	display:none;	
+	width: 100%;
+	height: 100vh;
+}
+
+.divfull4  {
+	display:none;	
+	width: 100%;
+	height: 100vh;
+}
+
 
 
 
@@ -220,13 +260,11 @@ color:white;}
 
 
 @media screen and (max-width:600px){
-
-
- .block1 {
+	  .block1 {
   	  position:relative;
 	background-color: black;
 	transition: height 1.5s, background-color 1s;
-	margin:auto;
+	margin:0px;
 	padding: 0px;
 	float:left;
 	width:50%;
@@ -234,10 +272,13 @@ color:white;}
 	display:block;
   }
   
+  
   .block1:active{
-clear;
-none;
-}
+  		clear:float;
+  	background-color: #424242;
+  		height: 100vh;
+  		width: 100%;
+  }
   
 
 
@@ -254,6 +295,12 @@ none;
 	display:block;
   }
   
+    .block2:active{
+    		clear:float;
+  	background-color: #ff99ff;
+  	height: 100vh;
+  		width: 100%;
+  }
 
   .block3 {
   	  position:relative;
@@ -266,7 +313,14 @@ none;
 	height: 50vh;
 	display:block;
   }
+  
 
+  .block3:active{
+  		clear:float;
+  	background-color: #8FD8D8;
+  	height: 100vh;
+  		width: 100%;
+  }
 
   .block4 {
   	  position:relative;
@@ -280,6 +334,13 @@ none;
 	display:block;
   }
 
+  .block4:active{
+  		clear:float;
+  	background-color: #ffffb2;
+  	height: 100vh;
+  		width: 100%;
+  }
+
 
 
 .colorblocks{
@@ -290,6 +351,7 @@ none;
 
 
 .colorblocks>div>h1{
+	margin: 0;
 	font-size: 50pt;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
@@ -303,11 +365,28 @@ none;
   top: 0; left: 0; bottom: 0; right: 0;
 }
 
-
-
-
 a:link {text-decoration:none;
 color:white;}
 a:visited {text-decoration:none;
 color:white;}
 
+	
+	
+	
+#divfull1  {
+	display:none;
+	width: 100%;
+	height: 100vh;
+}
+
+#divfull2  {
+	display:none;
+}
+
+#divfull3  {
+	display:none;
+}
+
+#divfull4  {
+	display:none;
+}
