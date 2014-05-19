@@ -260,26 +260,16 @@ link:active{
 
 
 @media screen and (max-width:600px){
-
-  
-  body {
-	padding:0px;
-	margin:0px;
-}
-
-
-  .block1 {
-
+	  .block1 {
   	  position:relative;
 	background-color: black;
-	transition-duration: 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
 	width:50%;
 	height: 50vh;
 	display:block;
-		min-height:0%;
   }
   
   
@@ -296,7 +286,7 @@ link:active{
   .block2 {
   	  position:relative;
 	background-color:#FF00FF;
-	transition-duration: 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
@@ -315,7 +305,7 @@ link:active{
   .block3 {
   	  position:relative;
 	background-color:#00FFFF;
-	transition-duration: 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
@@ -335,7 +325,7 @@ link:active{
   .block4 {
   	  position:relative;
 	background-color:#FFFF00;
-	transition-duration: 1s;
+	transition: height 1.5s, background-color 1s;
 	margin:0px;
 	padding: 0px;
 	float:left;
