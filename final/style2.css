@@ -94,7 +94,7 @@ p {
 	margin: auto;
 	margin-top: 10px;
 	 position: relative;
-	 width: 375px;
+	 width:  66%;
   	}
 
 li {
@@ -104,11 +104,11 @@ li {
   	text-align: left;
 	margin: auto;
 	 position: relative;
-	 width: 375px;
+	 width: 66%;
   	}
 
 section {
-	width: 375px;
+	width: 66%;
 	margin: 30px;
 	margin-right:auto;
 	margin-left:auto;
