@@ -94,7 +94,7 @@ p {
 	margin: auto;
 	margin-top: 10px;
 	 position: relative;
-	 width: 66%;
+	 width: 375px;
   	}
 
 div {
@@ -111,7 +111,7 @@ div > p{
 	margin: 0px, 10px, 0px, 10px;
 	margin-top: 0px;
 	padding:0px;
-	width: 66%;
+	width: 355px;
 
 }
 
@@ -126,7 +126,7 @@ li {
   	}
 
 section {
-	width:66%;
+	width: 375px;
 	margin: 30px;
 	margin-right:auto;
 	margin-left:auto;
@@ -213,3 +213,4 @@ section > img.last{
 	padding:0px;
 	margin:0px;
 }
+
