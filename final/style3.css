@@ -140,7 +140,8 @@ color:white;}
 
 img {
 
-	max-width: 97%;
+	max-width:600px;
+	width: 97%;
 	height:auto;
 	padding:10px;
 
@@ -205,7 +206,7 @@ section > img.last{
 .pics > img {
 	display: inline;
 	width: 24.25%;
-	max-width: 600px%;
+	max-width: 150px%;
 	height:auto;
 	padding:0px;
 	margin:0px;
