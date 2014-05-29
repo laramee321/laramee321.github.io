@@ -205,8 +205,8 @@ section > img.last{
 
 .pics > img {
 	display: inline;
+	max-width: 150px;
 	width: 24.25%;
-	max-width: 150px%;
 	height:auto;
 	padding:0px;
 	margin:0px;
