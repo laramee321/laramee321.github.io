@@ -139,11 +139,12 @@ a:visited {text-decoration:none;
 color:white;}
 
 img {
-	margin-left:auto;
-	margin-right:auto;
+
 	max-width: 355px;
 	height:auto;
 	padding:10px;
+	margin-left:auto;
+margin-right:auto;
 }
 
 
@@ -200,8 +201,8 @@ section > img.last{
 .pics {
 	padding: 0px;
 	margin-top: 0px;
-	margin-left: 10px;
-	margin-right: 5px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-bottom: 0px;
 }
 
