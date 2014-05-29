@@ -52,8 +52,167 @@ table {
 
 /* END RESET */
 
+h1 {
+	letter-spacing: -4pt;
+	font-size: 100px;
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+  	text-align: center;
+	margin: auto;
+	 position: relative;
+	 text-decoration:none; 
+
+  	}
+
+h2 {
+	font-size: 40px;
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+  	text-align: center;
+	margin: auto;
+	 position: relative;
+  	}
+  	
+
+h4 {
+	font-size: 30px;
+	font-family: helvetica, arial, sans-serif;
+	color: #FF00FF;
+  	text-align: center;
+	margin: auto;
+	 position: relative;
+} 
+  	
+p {
+		font-size: 16px;
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+  	text-align: left;
+	margin: auto;
+	margin-top: 10px;
+	 position: relative;
+	 width: 66%;
+  	}
+
+div {
+	margin:0px;
+}
 
 
+div > p{		
+	font-size: 16px;
+	font-family: helvetica, arial, sans-serif;
+	color: #FF00FF;
+  	text-align: left;;
+	position: relative;
+	margin: 0px, 10px, 0px, 10px;
+	margin-top: 0px;
+	padding:0px;
+	width: 355px;
+
+}
+
+li {
+	font-size: 16px;
+	font-family: helvetica, arial, sans-serif;
+	color: #FF00FF;
+  	text-align: left;
+	margin: 0px;
+	padding: 0px;
+	 position: relative;
+  	}
+
+section {
+	width: 66%;
+	margin: 30px;
+	margin-right:auto;
+	margin-left:auto;
+	padding: 15px;
+}
+
+
+
+a:link {text-decoration:none;
+color:white;
+}
+a:visited {text-decoration:none;
+color:white;}
+
+img {
+	max-width: 355px;
+	height:auto;
+	padding:10px;
+}
+
+
+#option1 {
+	background-color:white;
+}
+
+#option2 {
+	background-color:white;
+}
+
+#option3 {
+	background-color:white;
+}
+
+#option4 {
+	background-color:white;
+}
+
+
+#option1 div {
+	display:none;
+}
+
+#option2 div {
+	display:none;
+}
+
+#option3 div {
+	display:none;
+}
+
+#option4 div {
+	display:none;
+}
+
+
+
+section > img {
+	border
+	display: inline;
+	max-width: 85px;
+	height:auto;
+	border-right:2.3px solid white;
+	padding:0px;
+	margin:0px;
+}
+
+section > img.last{
+	border-right: 0px;
+	
+}
+
+.pics {
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+}
+
+.pics > img {
+	display: inline;
+	max-width: 85px;
+	height:auto;
+	padding:0px;
+	margin:0px;
+}
+
+
+@media screen and (max-width:600px){
 
 h1 {
 	letter-spacing: -4pt;
@@ -214,3 +373,4 @@ section > img.last{
 	margin:0px;
 }
 
+}
