@@ -124,6 +124,7 @@ li {
 
 section {
 	width: 66%;
+	max-width:650px;
 	margin: 30px;
 	margin-right:auto;
 	margin-left:auto;
@@ -141,11 +142,11 @@ color:white;}
 img {
 
 	max-width:600px;
-	width: 97%;
+	width: 100%;
 	height:auto;
-	padding:10px;
+	padding-top:10px;
 	margin-Left:auto;
-margin-right:auto;
+	margin-right:auto;
 }
 
 
@@ -196,7 +197,9 @@ section > img {
 
 
 .pics {
-	max-width: 23%;
+	display: inline;
+	max-width: 25%;
+	height:auto;
 	padding: 0px;
 	margin:0px;
 }
