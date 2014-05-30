@@ -186,7 +186,7 @@ img {
 section > img {
 	border
 	display: inline;
-	max-width: 24.25%;
+	max-width: 20%;
 	height:auto;
 	border-right:2.3px solid white;
 	padding:0px;
