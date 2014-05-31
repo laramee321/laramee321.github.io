@@ -199,6 +199,9 @@ img {
 	margin-Left:auto;
 	margin-right:auto;
 	margin-bottom: 25%;
+	
+		border: none; 
+	overflow: hidden;
 }
 
 .pics > img {
