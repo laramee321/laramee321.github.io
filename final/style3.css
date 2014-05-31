@@ -140,11 +140,12 @@ a:visited {text-decoration:none;
 color:white;}
 
 img {
-
+	display: block;
 	max-width:600px;
 	width: 100%;
 	height:auto;
 	padding-top:10px;
+	padding-bottom:7px;
 	margin-Left:auto;
 	margin-right:auto;
 }
@@ -186,7 +187,7 @@ img {
 
 
 section > img {
-	display: inline;
+	display: inline-block;
 	width: 20%;
 	height:auto;
 	border:2.5% solid white;
@@ -205,7 +206,7 @@ section > img {
 }
 
 .pics > img {
-	display: inline;
+	display: inline-block;
 	width: 23%;
 	height:auto;
 	border:1% solid white;
