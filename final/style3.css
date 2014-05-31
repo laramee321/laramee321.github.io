@@ -199,13 +199,16 @@ img {
 	margin: 0px;
 	margin-Left:auto;
 	margin-right:auto;
+	margin-bottom: 25%;
 }
 
 .pics > img {
-	display: inline-block;
-	width: 23.1%;
-	height:auto;
-	padding:0px;
-	margin:0px;
+	display: block;
+	float: right;
+	position: relative;
+	width: 25%;
+	height: auto;
+	padding: 0px;
+	margin: auto;
 }
-
+}
