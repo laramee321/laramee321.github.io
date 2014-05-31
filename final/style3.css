@@ -198,7 +198,7 @@ section > img {
 
 
 .pics {
-	display: inline;
+	display: inline-block;
 	max-width: 25%;
 	height:auto;
 	padding: 0px;
