@@ -220,8 +220,8 @@ img {
 opacity: 0.7;
 margin: -1px;
 }
-.pics :hover{border: 1px solid #FF00FF;}
-.pics > img:hover { margin: -1px;}
+.pics :hover{border: 3px solid #FF00FF;}
+.pics > img:hover { margin: -3px;}
 
 }
 border-style:solid;
