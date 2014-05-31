@@ -212,6 +212,8 @@ img {
 }
 
 .pics > img:hover {
-opacity: 0.5;
+opacity: 0.7;
+border:1px;
+border-color:#FF00FF;
 }
 }
