@@ -213,7 +213,6 @@ img {
 
 .pics > img:hover {
 opacity: 0.7;
-margin:-1px;
 }
 
 .pics :hover {
