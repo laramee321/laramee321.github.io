@@ -209,14 +209,19 @@ img {
 	height: auto;
 	padding: 0px;
 	margin: auto;
+	
+	
+	border: none; 
+	overflow: hidden;
 }
 
 
 .pics > img:hover {
 opacity: 0.7;
-border-style:solid;
-border-width:-1px;
-border-color:#FF00FF;
-overflow: visible;
+
 }
+
+.pics :hover{border: 3px solid black;}
+.pics > img:hover { margin: -3px;}
+
 }
