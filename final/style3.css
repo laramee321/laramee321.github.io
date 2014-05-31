@@ -199,10 +199,13 @@ section > img {
 
 .pics {
 	display: inline-block;
-	max-width: 25%;
+	max-width:600px;
+	width: 100%;
 	height:auto;
-	padding: 0px;
-	margin:0px;
+	padding-top:10px;
+	padding-bottom:7px;
+	margin-Left:auto;
+	margin-right:auto;
 }
 
 .pics > img {
