@@ -274,7 +274,7 @@ table {
   .block1:active{
   	clear:float;
   	background-color: black;
-	height: 25vh;
+	height: 50vh;
 }
 
 
@@ -291,6 +291,11 @@ table {
 	display:block;
   }
   
+    .block2:active{
+  	clear:float;
+  	background-color: #FF00FF;
+	height: 50vh;
+}
 
   .block3 {
   		  	transition-duration: 0s;
@@ -305,6 +310,11 @@ table {
 	display:block;
   }
   
+    .block3:active{
+  	clear:float;
+  	background-color: #00FFFF;
+	height: 50vh;
+}
 
   .block4 {
   		  	transition-duration: 0s;
@@ -319,7 +329,11 @@ table {
 	display:block;
   }
 
-
+  .block4:active{
+  	clear:float;
+  	background-color:#FFFF00;
+	height: 50vh;
+}
 
 .colorblocks{
 	height 100%;
