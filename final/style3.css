@@ -186,33 +186,26 @@ img {
 
 
 
-section > img {
-	display: inline-block;
-	width: 20%;
-	height:auto;
-	border:2.5% solid white;
-	padding:0px;
-	margin:0px;
-}
 
 
 
 .pics {
-	display: inline-block;
+	display: block;
 	max-width:600px;
 	width: 100%;
 	height:auto;
+	padding: 0px;
 	padding-top:10px;
 	padding-bottom:7px;
+	margin: 0px;
 	margin-Left:auto;
 	margin-right:auto;
 }
 
 .pics > img {
 	display: inline-block;
-	width: 23%;
+	width: 24.2%;
 	height:auto;
-	border:1% solid white;
 	padding:0px;
 	margin:0px;
 }
