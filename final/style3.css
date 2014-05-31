@@ -210,4 +210,8 @@ img {
 	padding: 0px;
 	margin: auto;
 }
+
+.pics > img:hover {
+color: 0,0,0,70;
+}
 }
