@@ -211,13 +211,12 @@ img {
 	margin: auto;
 }
 
+
 .pics > img:hover {
 opacity: 0.7;
-}
-
-.pics :hover {
 border-style:solid;
 border-width:-1px;
 border-color:#FF00FF;
+overflow: visible;
 }
 }
