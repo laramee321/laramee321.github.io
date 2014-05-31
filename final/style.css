@@ -259,6 +259,8 @@ table {
 	
 	
 	  .block1 {
+	  	  	transition-duration: 0s;
+
   	  position:relative;
 	background-color: black;
 	margin:0px;
@@ -273,6 +275,8 @@ table {
 
 
   .block2 {
+  		  	transition-duration: 0s;
+
   	  position:relative;
 	background-color:#FF00FF;
 	margin:0px;
@@ -285,6 +289,8 @@ table {
   
 
   .block3 {
+  		  	transition-duration: 0s;
+
   	  position:relative;
 	background-color:#00FFFF;
 	margin:0px;
@@ -297,6 +303,8 @@ table {
   
 
   .block4 {
+  		  	transition-duration: 0s;
+
   	  position:relative;
 	background-color:#FFFF00;
 	margin:0px;
