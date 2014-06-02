@@ -199,9 +199,6 @@ img {
 	margin-Left:auto;
 	margin-right:auto;
 	margin-bottom: 2%;
-	
-		border: none; 
-	overflow: hidden;
 }
 
 .pics > img {
@@ -212,19 +209,14 @@ img {
 	height: auto;
 	padding: 0px;
 	margin: auto;
-	
-	
-	border: none; 
-	overflow: hidden;
 }
 
 
 .pics > img:hover {
 opacity: 0.7;
 margin: -1px;
+border: 1px solid #FF00FF;
 }
-.pics :hover{border: 1px solid #FF00FF; margin: -2px;}
-.pics > img:hover { margin: -1px; !important}
 
 }
 border-style:solid;
