@@ -213,9 +213,9 @@ img {
 
 
 
+.pics > img:hover {
+opacity: 0.7;
 }
 
 
-.pics a img, .pics a { border: none; overflow: hidden; float: left; }
-.pics a:hover { border: 3px solid #0000ff; }
-.pics a:hover img { margin: -3px; }
+
