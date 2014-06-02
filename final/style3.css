@@ -223,7 +223,7 @@ img {
 opacity: 0.7;
 margin: -1px;
 }
-.pics :hover{border: 1px solid #FF00FF; margin: -1px;}
+.pics :hover{border: 1px solid #FF00FF; margin: -2px;}
 .pics > img:hover { margin: -1px; !important}
 
 }
