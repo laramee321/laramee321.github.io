@@ -222,12 +222,14 @@ img {
 
 .pics > img:hover {
 opacity: 0.7;
-border-color: #FF00FF;
-overflow: visible;
+  border: solid 2px red;
+  margin: -2px;
 }
 
 
 }
-border-style:solid;
-border-width:1px;
-border-color:#FF00FF;
+
+
+#inner-borders a img, #inner-borders a { border: none; overflow: hidden; float: left; }
+#inner-borders a:hover { border: 3px solid #0000ff; }
+#inner-borders a:hover img { margin: -3px; }
