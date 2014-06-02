@@ -211,13 +211,21 @@ img {
 	margin: auto;
 }
 
+.pics>img:before{
+	border: 1px solid transparent;
+	content:'';
+	width:24.8%;
+	height:auto;
+	margin:auto;
+	position:relative;
+}
 
 .pics > img:hover {
 opacity: 0.7;
-margin: -1px !important;
-border: 1px solid #FF00FF;
+border-color: #FF00FF;
 overflow: visible;
 }
+
 
 }
 border-style:solid;
