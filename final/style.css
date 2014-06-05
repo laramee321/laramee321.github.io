@@ -195,7 +195,7 @@ color:white;}
 
 
 
-@media screen and (max-height:400px){
+@media screen and (max-height:350px){
 
 
 p{
@@ -312,7 +312,7 @@ body {
 
 
 .colorblocks>div>h1{
-	font-size: 50px;
+	font-size: 50%;
 	font-family: helvetica, arial, sans-serif;
 	color: white;
   	width: 100%;
