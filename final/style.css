@@ -226,7 +226,7 @@ body {
 
 .block1:active{
   	clear:float;
-  	background-color: #424242;
+  	background-color: black;
 	height: 25vh;
 }
 
@@ -250,7 +250,7 @@ body {
   .block2:active{ 
   	  	clear:float;
 		height: 25vh;
-	  	background-color: #ff99ff;
+	  	background-color: #FF00FF;
 }
 
 
@@ -272,7 +272,7 @@ body {
   .block3:active{ 
   	clear:float;
 	height: 25vh;
-	background-color: #8FD8D8;
+	background-color: #00FFFF;
 }
 
 
