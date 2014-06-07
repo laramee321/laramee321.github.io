@@ -95,6 +95,7 @@ p {
 	margin-top: 10px;
 	 position: relative;
 	 width:  66%;
+	 max-width:650px;
   	}
 
 li {
