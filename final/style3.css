@@ -142,7 +142,8 @@ color:white;}
 
 img {
 	display: block;
-	max-width:300px;
+	max-height:500px;
+	max-width:500px;
 	width: 100%;
 	height:auto;
 	padding-top:10px;
@@ -191,7 +192,8 @@ img {
 
 .pics {
 	display: block;
-	max-width:300px;
+	max-width:500px;
+	max-height:500px;
 	width: 100%;
 	height:auto;
 	padding: 0px;
