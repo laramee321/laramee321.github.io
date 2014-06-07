@@ -218,4 +218,8 @@ opacity: 0.7;
 }
 
 
-
+#inverse{
+	padding:0px;
+	margin:0px;
+	background-color:black;
+}
