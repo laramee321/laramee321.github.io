@@ -98,6 +98,17 @@ p {
 	 max-width:650px;
   	}
 
+h3 {
+	font-size: 20px;
+	font-family: helvetica, arial, sans-serif;
+	color: black;
+	font-weight: bold;
+  	text-align: left;
+	margin: auto;
+	 position: relative;
+	 width: 66%;
+  	}
+
 li {
 	font-size: 16px;
 	font-family: helvetica, arial, sans-serif;
